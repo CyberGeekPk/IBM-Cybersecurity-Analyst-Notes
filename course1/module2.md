@@ -16,4 +16,13 @@
 - Automation
 - Information Systems
 
+## Cybersecurity Technical Skills
 
+- Information security and assurance
+- Security operations
+- Cryptography
+- Risk management
+- Threat management
+- Vulnerability management
+- Authentication
+- Digital forensics 
