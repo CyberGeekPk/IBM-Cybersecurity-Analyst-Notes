@@ -42,3 +42,9 @@ As per the market definition in Cybersecurity - Worldwide:
 The surge in cyberattacks is causing damage worth trillions of dollars resulting in a potential market opportunity of $2 trillion for cybersecurity technology and service providers. Digital crime is also on the rise with the growth of the digital economy, consequently leading to a projection of annual damage worth nearly $10.5 trillion by 2025. Regardless of an increase in cybersecurity expenditure of around $150 billion in 2021, the extent of the problem suggests it’s inadequate. 
 
 A recent survey shows that the volume of threats in 2022 was twice as much as in 2021, with 80% of the threat groups and over 40% of the malware detected in 2021 being new. The current commercial solutions don’t fully address customer requirements, creating a gap between the demand and the available security solutions. This gap indicates a massive addressable market that can exploit continuous technological improvements, simplicity, and innovation in meeting the needs of neglected segments.
+
+## Mid-level roles 
+
+- Mid-level roles in cybersecurity play a critical part in protecting an organization's digital assets.
+- Mid-level roles are cybersecurity analyst, cybersecurity consultant, and penetration and vulnerability tester.
+- While their responsibilities may differ, all roles share the same goal. Ensuring the organization's information assets, integrity, confidentiality, and availability.
