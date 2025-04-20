@@ -26,3 +26,17 @@
 - Vulnerability management
 - Authentication
 - Digital forensics 
+
+## Soft Skills
+
+- Attention to detail
+- Critical thinking
+- Creative thinking
+- Problem solving
+- Communication
+- Teamwork
+- Leadership
+- Research
+- Professionalism
+- Time management
+
