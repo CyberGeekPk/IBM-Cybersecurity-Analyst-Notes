@@ -48,3 +48,11 @@ A recent survey shows that the volume of threats in 2022 was twice as much as in
 - Mid-level roles in cybersecurity play a critical part in protecting an organization's digital assets.
 - Mid-level roles are cybersecurity analyst, cybersecurity consultant, and penetration and vulnerability tester.
 - While their responsibilities may differ, all roles share the same goal. Ensuring the organization's information assets, integrity, confidentiality, and availability.
+
+## Advanced level careers
+
+- Advanced level careers in cybersecurity represent the apex of professional development in the field.
+- A Cybersecurity Manager develops and implements security policies, manages a team of cybersecurity professionals, and liaises with senior management on all security related issues.
+- A Chief Information Security Officer, CISO, oversees the deployment of security technologies and ensures their effectiveness through regular audits and testing.
+- Cybersecurity engineers design and create secure networks, systems and application architectures.
+- Cybersecurity architects develop a comprehensive framework detailing how various security elements will interact and support each other.
