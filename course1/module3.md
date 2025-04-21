@@ -84,3 +84,14 @@ The Certified Secure Software Lifecycle Professional (CSSLP) validates an indivi
 - ### CGRC
 
 Certified in the Governance of Enterprise IT Risk and Compliance (CGRC) validates an individual's proficiency in understanding and managing enterprise IT risk and compliance governance. The CGRC certification evaluates and mitigates IT risk, ensures compliance with applicable laws, regulations, and policies, and aligns IT risk management with the organization's overall risk management. This certification is ideal for IT professionals involved in risk and compliance management, auditing, and governance, demonstrating their competence in effectively managing enterprise IT risks and compliance.
+
+## Tips to Prepare for Exam
+
+- Review the exam objectives before you study anything else
+- Gather relevant study materials that can include textbooks, online tutorials, and practice exams
+- Create a consistent focus study schedule
+- Actively engage with the material and take notes
+- Highlight key points and try to explain the concepts to someone else
+- Practice exams not only help you get familiar with the exam format and question style, but they also allow you to experience the pressure of time constraints
+- Joining study groups or online communities can be influential in your journey
+- Ensure you're getting enough sleep, eating healthily and taking time out for leisure activities.
