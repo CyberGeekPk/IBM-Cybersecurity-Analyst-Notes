@@ -12,3 +12,11 @@ The module will start with the benefits of cybersecurity certifications. It will
 - Community building
 - Global recognition
 - Continuous learning and development
+
+## Industry Recognized Certifications
+
+- ISC offers the CC entry level certification and the gold standard CISSP for experienced professionals
+- CompTIA (Computing Technology Industry Association) offers CompTIA Security+, CompTIA Cybersecurity Analyst (CySA+) and CompTIA Advanced Security Practitioner (CASP+)
+- The International Council of Electronic Commerce Consultants, provides forensic, security analysis, networking, incident handling, and cloud security certifications
+- Global Information Assurance certification, or GIAC, focuses on practical job role specific certifications
+- Industry specific cybersecurity certifications include HCISPP from ISC, Certified Enterprise Risk Professional, and Certified Regulatory Compliance Manager
