@@ -18,7 +18,7 @@ This module will teach you the skills you need to
 
 A comprehensive security program must contain confidentiality, integrity, and availability. These are known as the CIA Triad. 
 
-- ### Confidentiality
+### Confidentiality
 
 Confidentiality means that data is protected from unauthorized access.
 
@@ -37,7 +37,7 @@ To determine if data should be confidential, ask:
 
 Cybercriminals are always after sensitive information or personal data. To keep confidential data secure, control data access and use of security tools like encryption and multifactor authentication (MFA) is necessary.
 
-- ### Integrity
+### Integrity
 
 Integrity means that data is protected from unauthorized changes.
 
@@ -62,7 +62,7 @@ To preserve data integrity, security plans must:
 - Prevent unauthorized data changes by authorized users
 - Use error checking and data validation
 
-- ### Availability
+### Availability
 
 Availability means you have access to your data whenever you need it. 
 Data availability means that authorized users have immediate and reliable access to their data. This includes granting access to authorized users with passwords and security questions.
