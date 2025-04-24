@@ -101,3 +101,12 @@ A data dump might include PII, PHI, bank account numbers, PINs, social security 
 - Eaves dropping
 - Man in the middle
 - Replay
+
+- XSS (Cross-site Scripting)
+- SQL Injection
+- Botnets
+- DOS
+- D-DOS
+- ICMP Flood
+- Syn Flood
+
