@@ -109,4 +109,13 @@ A data dump might include PII, PHI, bank account numbers, PINs, social security 
 - D-DOS
 - ICMP Flood
 - Syn Flood
+- Impersonation is when someone pretends to be something they are not
+- Social Engineering
+- Shoulder surfing
+- Baiting: Physical or Logical Lure
+- Pretexting
+- Phishing
+- Identity theft
+- Identity fraud
+
 
