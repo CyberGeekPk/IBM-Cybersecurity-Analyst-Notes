@@ -10,3 +10,9 @@ Welcome to my personal learning notes! Here's a quick index:
 - [Module 3: Cybersecurity Certifications](course1/module3.md)
 - [Module 4: Final Project & Assessment](course1/module4.md)
 
+## Course 2 : Introduction to Cybersecurity Essentials
+
+- [Module 1: Common Security Threats & Risks](course2/module1.md)
+- [Module 2: Security Best Practices](course2/module2.md)
+- [Module 3: Safe Browsing Practices](course2/module3.md)
+- [Module 4: Final Quiz](course2/module4.md)
