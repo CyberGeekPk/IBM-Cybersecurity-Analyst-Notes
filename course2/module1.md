@@ -74,3 +74,13 @@ To protect against these threats, systems that require high availability, (99.99
 - backup servers ready to take over.
 
 There are regulatory standards, contracts, and local laws that companies and organizations must follow to secure and maintain data. The Health Insurance Portability and Accountability Act, or HIPAA, Regulates the use and disclosure of protected health information in America. And the General Data Protection Regulation, or GDPR, regulates digital privacy for all countries in the European Union. Fines and penalties for non-compliance help companies keep data safe, secure, accurate, and private.
+
+## Security & Information Privacy
+
+- When raw data is refined it becomes information. 
+- Intellectual property (or IP) includes mind creations like designs, trade secrets, research discoveries, and even employee knowledge.
+- Digital products are non-tangible assets that a company owns, like software, eBooks, or web elements.
+- Data driven business decisions are based on capturing data, correlating it, and then using it to create meaningful reports.
+- Classes of data that companies, and organizations must protect are personally identifiable information (or PII), company confidential information, customer confidential information, and protected health information (or PHI).
+
+
