@@ -83,4 +83,21 @@ There are regulatory standards, contracts, and local laws that companies and org
 - Data driven business decisions are based on capturing data, correlating it, and then using it to create meaningful reports.
 - Classes of data that companies, and organizations must protect are personally identifiable information (or PII), company confidential information, customer confidential information, and protected health information (or PHI).
 
+# Data Threats
 
+## Data leaks 
+Data leaks are the accidental exposure of confidential or sensitive data through a security vulnerability. 
+
+## Data breaches
+Data breaches are when a data leak is caused intentionally by a cybercriminals. These occur when social engineering or phishing attacks trick employees into leaking sensitive credentials or information. 
+
+## Data dumps
+Data dumps are when cybercriminals dump stolen data onto the dark web for monetary gain. 
+A data dump might include PII, PHI, bank account numbers, PINs, social security numbers, and more. Other cybercriminals buy and use data dumps for things like identity theft and password attacks.
+
+## Threat  Types
+
+### Snooping Attacks
+- Eaves dropping
+- Man in the middle
+- Replay
