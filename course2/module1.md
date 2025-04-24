@@ -45,7 +45,7 @@ Data is not static. It can be transferred to other systems, altered, and updated
 It covers data in storage, during processing, and in transit. Without data integrity, loss, corruption, or compromise can cause significant damage and financial loss for both businesses and customers. 
 
 The two main types of data integrity are physical and logical. 
-- Physical data integrity is the collection of actions and fail safes that protect the physical systems that store and process the data. - --
+- Physical data integrity is the collection of actions and fail safes that protect the physical systems that store and process the data.
 - Logical data integrity are the checks and protocols that protect data from human error and hackers.
 These confirm that data is correct and accurate as it’s used in different ways within an organization.
 
@@ -65,4 +65,12 @@ To preserve data integrity, security plans must:
 - ### Availability
 
 Availability means you have access to your data whenever you need it. 
- . Data availability means that authorized users have immediate and reliable access to their data. This includes granting access to authorized users with passwords and security questions. Some of the most fundamental threats to availability are non-malicious, including hardware failures, unscheduled software downtime, and network bandwidth issues. Malicious attacks against availability include various forms of sabotage intended to cause harm to an organization by denying users access to the information system. One such example would be a DoS (or Denial of Service) attack where a website or server is targeted with so much traffic that it overwhelms that system, degrading performance until the server is unable to respond. To protect against these threats, systems that require high availability, (99.999% uptime) have network monitoring, redundant hardware, and backup servers ready to take over. If the primary system is compromised, business continuity and customer access can be maintained. There are regulatory standards, contracts, and local laws that companies and organizations must follow to secure and maintain data. The Health Insurance Portability and Accountability Act, or HIPAA, Regulates the use and disclosure of protected health information in America. And the General Data Protection Regulation, or GDPR, regulates digital privacy for all countries in the European Union. Fines and penalties for non-compliance help companies keep data safe, secure, accurate, and private. In this video, you learned that: The CIA Triad is Confidentiality, Integrity, and Availability. Breaches and data loss can result in financial losses for both consumers and companies. To preserve data integrity, security plans must prevent unauthorized access and changes. Regulations like HIPAA and GDPR help to keep data safe, secure, accurate, and private. And, non-compliance or repeated violations of privacy regulations can result in hefty fines and penalties.
+Data availability means that authorized users have immediate and reliable access to their data. This includes granting access to authorized users with passwords and security questions.
+Some of the most fundamental threats to availability are non-malicious, including hardware failures, unscheduled software downtime, and network bandwidth issues. Malicious attacks against availability include various forms of sabotage intended to cause harm to an organization by denying users access to the information system. One such example would be a DoS (or Denial of Service) attack. 
+
+To protect against these threats, systems that require high availability, (99.999% uptime) have: 
+- network monitoring
+- redundant hardware
+- backup servers ready to take over.
+
+There are regulatory standards, contracts, and local laws that companies and organizations must follow to secure and maintain data. The Health Insurance Portability and Accountability Act, or HIPAA, Regulates the use and disclosure of protected health information in America. And the General Data Protection Regulation, or GDPR, regulates digital privacy for all countries in the European Union. Fines and penalties for non-compliance help companies keep data safe, secure, accurate, and private.
