@@ -10,3 +10,13 @@ Additionally, I gained a clear understanding of the five key elements of the cri
 - Define critical thinking, its significance, and practical application in the field of cybersecurity.
 - Describe the five key elements of the critical thinking model and their significance to cybersecurity professionals.
 - Identify the five essential critical thinking skills foundational to all professional domains.
+
+## The Impact of COVID-19 on Cybersecurity
+
+- COVID-19 pandemic expanded virtual operations, leading to a surge in cyberattacks
+- There were several vulnerabilities associated with remote working
+- BYOD (Bring Your Own Device) policies
+- Less secure home Wi-Fi connections
+- Increased risk of human error
+- Attackers relentlessly targeted users and sectors with even the health sector falling prey
+- A proactive cybersecurity community, vigilant, public and organizations willing to invest in cybersecurity infrastructure are collaborating to - safeguard our ever expanding virtual presence
