@@ -11,6 +11,17 @@ Additionally, I gained a clear understanding of the five key elements of the cri
 - Describe the five key elements of the critical thinking model and their significance to cybersecurity professionals.
 - Identify the five essential critical thinking skills foundational to all professional domains.
 
+## The Impact of 9/11 on Cybersecurity
+
+- Terrorists exploited the internet for communication, planning, information sharing, recruitment, and radicalization in preparation for the 9/11 attacks
+- There was a surge in spamming website defacements and denial-of-service attacks following the 9/11 attacks
+- The US government initiated several cybersecurity measures
+- Establishment of the DHS
+- Creation of the NCSD
+- Enhancement of advanced encryption techniques for sensitive communications
+- Introduction of the security by design concept
+- Development of real-time global surveillance and nformation-sharing networks
+
 ## The Impact of COVID-19 on Cybersecurity
 
 - COVID-19 pandemic expanded virtual operations, leading to a surge in cyberattacks
