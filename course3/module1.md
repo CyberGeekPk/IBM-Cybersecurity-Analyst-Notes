@@ -46,4 +46,13 @@ Critical thinking model has five elements
 - Interpersonal skills
 - Theoretical and experimental knowledge
 - Intellectual abilities
-Critical thinking skills empower cybersecurity professionals to promptly detect breaches, communicate effectively, make informed decisions, and implement robust solutions. The critical thinking model offers a holistic approach to addressing cybersecurity challenges.
+Critical thinking skills empower cybersecurity professionals to promptly detect breaches, communicate effectively, make informed decisions, and implement robust solutions. The critical thinking model offers a holistic approach to addressing cybersecurity challenges
+
+## Critical Thinking: 5 Key Skills
+
+- Five pivotal critical thinking skills help form the foundation of critical thinking in every professional field, including cybersecurity
+- Challenging assumptions, means understanding that things are not always what they seem and that you need to dig deeper to get to the truth.
+- When considering alternatives, the second skill is to methodically brainstorm the full range of possibilities and break them into components, who, what, when, where, why, and how
+- The third skill, evaluating data, involves the ability to analyze and interpret information objectively
+- The fourth skill is identifying key drivers. That means critical thinkers can recognize the underlying forces or factors that drive a situation or influence an outcome
+- Understanding context. The fifth skill is about comprehending how different pieces fit together to form the whole in a cybersecurity scenario.
