@@ -31,3 +31,9 @@ Additionally, I gained a clear understanding of the five key elements of the cri
 - Increased risk of human error
 - Attackers relentlessly targeted users and sectors with even the health sector falling prey
 - A proactive cybersecurity community, vigilant, public and organizations willing to invest in cybersecurity infrastructure are collaborating to - safeguard our ever expanding virtual presence
+
+## Critical Thinking in Cybersecurity
+ 
+- Critical thinking involves objectively analyzing information and forming reasoned judgments
+- Critical thinking forms the bedrock of effective cybersecurity, enabling professionals to make informed decisions, innovate, and anticipate threats
+- You can employ critical thinking in cybersecurity to evaluate online information, engage in productive discussions, consider ethical aspects, navigate complex obstacles, perform root cause analysis, embrace new technologies, and pursue lifelong learning.
