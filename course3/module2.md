@@ -15,3 +15,8 @@
 - There are different groups of threat actors, hacktivists, organized crime syndicates, nation state actors, script kiddies, and insider threat actors.
 - Threat actors are driven by varied motives like financial gain, political agendas, espionage, or an intent to cause disruption and chaos.
 - It's critical to study the varied landscape of threat actors to develop effective cybersecurity strategies and address their ever-evolving risks.
+
+## IBM X-Force Threat Intelligence Index?
+The IBM X-Force Threat Intelligence Index, an annual report created through extensive analysis of security events, provides insights into the current cybersecurity landscape. The report tracks changes, analyzes security trends and patterns, identifies emerging threats and vulnerabilities, and provides strategic guidance to help organizations strengthen their security posture and defend against cyberattacks.
+
+The IBM X-ForceThreat Intelligence Index 2024 is based on insights and observations from examining over 150 billion security events per day in over 130 countries. In this activity, you will research and review the IBM X-Force Threat Intelligence Index 2024 to gain insights into cybersecurity trends and the threat landscape.
