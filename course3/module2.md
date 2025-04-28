@@ -31,3 +31,29 @@ The IBM X-ForceThreat Intelligence Index 2024 is based on insights and observati
 - Back up data
 - Educate users
 Organizations can prevent large-scale attacks by implementing an e-mail gateway and training users.
+
+## Malware Detection with Rootkit Hunters
+Estimated reading time: 2 minutes
+
+### What is a rootkit?
+A rootkit refers to malicious software hackers use to gain administrator access to a target system. They then leverage this privileged access to remotely carry out various malicious activities, such as manipulating system configurations and modifying or deleting critical data.
+
+Hackers commonly deploy rootkits to operate stealthily. These rootkits conceal their presence and mask the activities of other malware, like keyloggers and spyware, to evade detection by antivirus software and system administrators.
+
+## What is a rootkit hunter (rkhunter)?
+A rootkit hunter, commonly called rkhunter, is a valuable tool that helps security professionals protect Linux/Unix-based systems against malware attacks. Rkhunter detects various types of malware, including rootkits, backdoors, and other potential vulnerabilities or local exploits.
+
+### How does rkhunter scan for malware?
+Rkhunter scans for malware by thoroughly inspecting critical system components and comparing them against a database containing known signatures and behavioral patterns of common malicious software.
+
+### Rkhunter operates by:
+
+Scanning file systems to identify anomalies
+Detecting rootkits by comparing the output of system commands
+Identifying unauthorized remote access tools or backdoors
+Auditing system configurations to detect any misconfigurations
+Providing detailed reports of suspicious activity and recommended remediation actions
+One of the main advantages of rkhunter is that it can run scans on demand and alert administrators to any unusual activity within a server's file system.
+
+### How can you maximize security?
+While rkhunter is an essential server security tool, it is recommended to combine rkhunter with other tools and practices like intrusion detection systems (IDS), firewall configurations, systematic software updates, user access controls, and secure network policies to maximize security.
