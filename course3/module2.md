@@ -10,4 +10,8 @@
 - Examine and differentiate between phishing, vishing, and smishing techniques.
 - Identify the best ways to protect yourself and your organization from AI-based phishing attacks.
 
-
+## Types of Actors and Their Motives
+- A threat actor is an individual or a group responsible for actions that could compromise a computer network or system.
+- There are different groups of threat actors, hacktivists, organized crime syndicates, nation state actors, script kiddies, and insider threat actors.
+- Threat actors are driven by varied motives like financial gain, political agendas, espionage, or an intent to cause disruption and chaos.
+- It's critical to study the varied landscape of threat actors to develop effective cybersecurity strategies and address their ever-evolving risks.
