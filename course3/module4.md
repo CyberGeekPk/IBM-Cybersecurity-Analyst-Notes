@@ -9,3 +9,10 @@
 - Explain the functionality of single sign-on and passkeys.
 - Recognize various physical threats to organizational cybersecurity and explore outdoor security measures to deter them.
 - Describe environmental factors impacting an organization’s cybersecurity and infrastructure and recognize solutions to mitigate them.
+
+## Authentication
+
+- Authentication protocols, servers, and standards verify an individual's claimed identity.
+- Authentication protocols such as RADIUS, CHAP, EAP, Kerberos, and so on, are a set of digital rules and process systems to ensure the person trying to gain access is who they claim to be.
+- Authentic servers, such as Active Directory, LDAP, and RADIUS, store and manage user credentials such as usernames and passwords in a centralized database.
+- Passwords have vulnerabilities. Other authentication methods include OTP, biometric authentication, smart cards, security tokens, and mobile push notifications.
