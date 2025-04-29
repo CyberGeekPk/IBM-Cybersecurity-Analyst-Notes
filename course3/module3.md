@@ -52,3 +52,10 @@ The attackers leverage network mapping to:
 - Ingress filtering, which establishes a critical network security measure where traffic is inspected and managed at the point of entry to the network
 - Egress filtering, which specific networks deploy as an added layer of protection
 
+## Security Controls
+
+- Security controls are essential for safeguarding the confidentiality, integrity, and availability of critical information and other crucial assets from potential threats. 
+- There are various security controls that safeguard hardware, software, networks, and data from potential harm.
+- These include administrative controls, physical controls, and technical controls.
+- When a security measure is implemented, its function is broadly specified into different categories.
+- Some of these include deterrent controls, preventive controls, detective controls, and corrective controls.
