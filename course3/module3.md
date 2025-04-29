@@ -59,3 +59,9 @@ The attackers leverage network mapping to:
 - These include administrative controls, physical controls, and technical controls.
 - When a security measure is implemented, its function is broadly specified into different categories.
 - Some of these include deterrent controls, preventive controls, detective controls, and corrective controls.
+
+## System Security
+
+- Computer system is a comprehensive hardware and software setup with all essential components required for performing computing operations.
+- System security protects computer systems and their information from unauthorized access, damage, or theft.
+- It professionals actively implement a variety of methods and tools to maintain system security, including access controls, encryption, patching, regular backups, system-level firewalls, and antivirus software.
