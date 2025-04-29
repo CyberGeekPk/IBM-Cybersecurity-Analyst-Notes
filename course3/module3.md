@@ -65,3 +65,17 @@ The attackers leverage network mapping to:
 - Computer system is a comprehensive hardware and software setup with all essential components required for performing computing operations.
 - System security protects computer systems and their information from unauthorized access, damage, or theft.
 - It professionals actively implement a variety of methods and tools to maintain system security, including access controls, encryption, patching, regular backups, system-level firewalls, and antivirus software.
+
+## Application Security by Design
+
+- Software development life cycle is a structured sequence of stages outlining the software development process from the beginning to the end.
+- Application security involves incorporating a series of secure practices and processes into every phase of the software creation process. The
+- key secure coding practices for enhancing application security include, input validation ,error handling, secure logging, avoid leaving hardcoded credentials, access control, encryption, and software secure testing.
+
+## Vulnerability Management
+
+- The first step in the vulnerability management process is to define and categorize the potential scan targets
+- Conduct automated regular scans to detect emerging vulnerabilities as quickly as possible
+- It is essential to select tools with robust vulnerability assessment capabilities
+- Two notable scanners in the industry are Nessus and OpenVAS
+- Application testing uses three techniques; SAST, DAST, and IAST, parameters must be set so that scans probe deep enough to uncover potential vulnerabilities
