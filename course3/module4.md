@@ -22,3 +22,17 @@
 - Understanding and implementing appropriate access control schemes within an organization is crucial for safeguarding sensitive information and resources from authorized access.
 - By adopting models like RBAC, ABAC, RuBAC, MAC, and DAC, organizations can tailor their security measures to fit their unique needs, ensuring users have the necessary access to perform their duties without compromising security.
 - The use of file access controls, particularly in Linux and Windows environments, further highlights the importance of precise permission settings in maintaining the integrity and confidentiality of data.
+
+## Access Controls
+
+- Access controls are security measures that ensure only authorized individuals can access specific resources.
+- Identities are unique digital representations of individuals, applications, devices, or organizations.
+- Access control methods are frameworks for regulating access to physical or digital resources.
+- There are two types of access control methods, traditional and innovative.
+
+## Physical Threats and Controls
+
+- Various physical threats can impact an organization's cybersecurity.
+- Outdoor security measures play a crucial role in deterring unauthorized access and safeguarding critical infrastructure.
+- Environmental factors and natural disasters represent a significant physical danger to an organization's cybersecurity framework.
+- It is crucial to mitigate damages to cybersecurity infrastructure caused by natural disasters to maintain data security and ensure operational continuity.
