@@ -23,4 +23,3 @@ Welcome to my personal learning notes! Here's a quick index:
 - [Module 2: Cybersecurity Threats](course3/module2.md)
 - [Module 3: Cybersecurity Controls](course3/module3.md)
 - [Module 4: Identity & Physical Controls](course3/module4.md)
-- [Module 5: Final Project & Course Wrap-Up](course3/module5.md)
