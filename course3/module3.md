@@ -33,3 +33,14 @@ The attackers leverage network mapping to:
 - Prioritize target segments
 - Deduce high-value assets
 - Craft tailored phishing campaigns, or social engineering attacks
+
+## IP Spoofing
+- IP spoofing involves manipulating packet headers to alter the source address, effectively concealing the true origin of the sender or pretending to be another host.
+- DDoS commonly employs IP spoofing and floods a target with excess traffic, disrupting services.
+- A botnet refers to a collection of interconnected computers centrally controlled by one or more attackers.
+- The man-in-the-middle strategy is to intercept the exchange between two systems, modify the packets and then forward them undetected by the authentic communicator or recipient.
+- IP spoofing poses challenges to law enforcement and cybersecurity teams.
+- IP spoofing can be limited using the following techniques;
+- Ingress filtering, which establishes a critical network security measure where traffic is inspected and managed at the point of entry to the network
+- Egress filtering, which specific networks deploy as an added layer of protection
+
