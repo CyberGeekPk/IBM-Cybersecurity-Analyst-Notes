@@ -39,6 +39,14 @@ The attackers leverage network mapping to:
 - DDoS commonly employs IP spoofing and floods a target with excess traffic, disrupting services.
 - A botnet refers to a collection of interconnected computers centrally controlled by one or more attackers.
 - The man-in-the-middle strategy is to intercept the exchange between two systems, modify the packets and then forward them undetected by the authentic communicator or recipient.
+
+## Injection Attacks
+- Injection attacks are cyber attacks, where an attacker injects malicious code into a query, web application, or system, triggering remote commands that manipulate website data. 
+- There are two popular injection attacks, SQL injection and XSS. 
+- Attackers exploit SQL injection vulnerabilities to gain unauthorized access and compromise sensitive information. 
+- The major consequences of SQL injection attacks include confidentiality breach, authentication compromise, authorization loss, and integrity violation.
+- XSS attacks are security breaches where attackers embed harmful scripts into web pages. 
+- There are two types of XSS attacks, server XSS and client XSS.
 - IP spoofing poses challenges to law enforcement and cybersecurity teams.
 - IP spoofing can be limited using the following techniques;
 - Ingress filtering, which establishes a critical network security measure where traffic is inspected and managed at the point of entry to the network
