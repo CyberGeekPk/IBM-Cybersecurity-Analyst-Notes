@@ -79,3 +79,13 @@ The attackers leverage network mapping to:
 - It is essential to select tools with robust vulnerability assessment capabilities
 - Two notable scanners in the industry are Nessus and OpenVAS
 - Application testing uses three techniques; SAST, DAST, and IAST, parameters must be set so that scans probe deep enough to uncover potential vulnerabilities
+
+## Incident Response and Digital Forensics
+
+- Evolving cyber attacks require organizations to maintain an efficient IR strategy comprising a response team, effective processes, and technological solutions.
+- There are four key phases in the IR lifecycle:
+- preparation and planning
+- detection and analysis
+- containment, eradication and recovery
+- post-incident activities
+- Digital forensics plays a critical role in IR by providing the tools and techniques necessary to identify, preserve, extract, and document digital evidence.
