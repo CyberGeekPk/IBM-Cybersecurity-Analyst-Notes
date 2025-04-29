@@ -16,3 +16,9 @@
 - Authentication protocols such as RADIUS, CHAP, EAP, Kerberos, and so on, are a set of digital rules and process systems to ensure the person trying to gain access is who they claim to be.
 - Authentic servers, such as Active Directory, LDAP, and RADIUS, store and manage user credentials such as usernames and passwords in a centralized database.
 - Passwords have vulnerabilities. Other authentication methods include OTP, biometric authentication, smart cards, security tokens, and mobile push notifications.
+
+## Authorization
+
+- Understanding and implementing appropriate access control schemes within an organization is crucial for safeguarding sensitive information and resources from authorized access.
+- By adopting models like RBAC, ABAC, RuBAC, MAC, and DAC, organizations can tailor their security measures to fit their unique needs, ensuring users have the necessary access to perform their duties without compromising security.
+- The use of file access controls, particularly in Linux and Windows environments, further highlights the importance of precise permission settings in maintaining the integrity and confidentiality of data.
