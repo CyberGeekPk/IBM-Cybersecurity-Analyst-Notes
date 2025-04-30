@@ -69,3 +69,8 @@ In this module, I learned about file systems and the directory structure of the 
 - MMC supports role-based administration, which allows you to assign snap-in tools to specific users and groups
 - Microsoft Windows provides ten built-in snap-in tools, which simplify system management with the following tools:
 - Computer management, group policy management, services, task scheduler, performance monitor, event viewer, device manager, certificate manager, local users and groups, and disk management.
+
+## What is Active Directory
+- Active directory helps administrators manage user accounts, computer systems, and network resources in a centralized way on a network
+- Administrative features in active directory include Organizational Units, called OUs, Home Folders, Folder Redirection, and Security Groups
+- The structure of active directory uses domains, trees, and forests
