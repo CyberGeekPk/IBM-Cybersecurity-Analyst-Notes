@@ -18,3 +18,10 @@ In this module, I learned about file systems and the directory structure of the 
 - Windows 11 Pro offers the same security as Windows 11 Home plus additional security enhancements.
 - Large and medium-sized organizations use Windows 11 Enterprise for its advanced security and comprehensive management skills.
 - Windows 11 Pro for Workstations is built to handle projects that involve intense graphics work and massive data crunching.
+
+## File Systems
+- File systems serve as the foundation for accessing and organizing files across various devices.
+- Metadata containing file details like size and permissions helps in maintaining data integrity within file systems.
+- The hierarchical structure of file systems allows for easy navigation and organization.
+- The FAT system, initially designed for simplicity, operates seamlessly across different platforms.
+- NTFS is the standard operating system for Windows and supports advanced features such as file permissions and encryption for enhanced security.
