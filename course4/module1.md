@@ -34,3 +34,11 @@ In this module, I learned about file systems and the directory structure of the 
 - Examples include PerfLogs, pagefile.sys and hiberfil.sys.
 - 32-bit systems are limited to 4 gigabytes of memory, which can cause performance issues when running new software.
 - 64-bit applications can use way more memory enabling faster processing of large data sets.
+
+## User and Kernel Modes
+- The processor in the Windows based computer operates in two different modes, user mode and kernel mode.
+- User mode runs applications in a secured environment, preventing direct access to hardware and system components.
+- Kernel mode allows the operating system and its components to directly interact with hardware.
+- In user mode, each code gets a unique virtual address space, whereas in kernel mode, codes share a single virtual address space.
+- Communication between user mode and kernel mode is essential for the smooth functioning of the Windows system.
+- The operating system running in kernel mode acts on behalf of the application to perform hardware related tasks through a system of calls known as system calls.
