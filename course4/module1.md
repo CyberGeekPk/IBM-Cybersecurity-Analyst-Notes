@@ -49,3 +49,15 @@ In this module, I learned about file systems and the directory structure of the 
 - The key features of network services include DNS, DHCP, VPN, and RDS.
 - Security and access control in the Windows Server OS help to safeguard resources, data, and user identities.
 - The key components of security and access control include Windows firewall, active Directory, RMS BitLocker, and RBAC.
+
+
+## Microsoft Windows Command Prompt Tools for Administration
+- Command prompt, also called the Command-Line Interface, or CLI, is a text-based interface for Microsoft Windows OSs that lets you interact with the system by executing commands.
+- The two most common OS user accounts are standard and administrator.
+- Standard accounts are the Windows default and are used for regular everyday tasks. And administrator accounts provide elevated privileges like installing software, changing system settings, and running CLI tools.
+- Running Command Prompt Tools lets the system carry out actions that require elevated permissions.
+- Group Policy lets system administrators manage and control user and computer settings on a network.
+- Drive letters identify storage devices on the computer.
+- The system maintenance and information commands allow you to manage and maintain a Microsoft Windows OS. Managing files and directories helps you organize and maintain your computer's file system.
+- File copying and backup tools allow you to copy files or perform advanced file-copying tasks.
+- And hostname and network commands provide information and tools to help you manage and troubleshoot network connections and identify devices on a network.
