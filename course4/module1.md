@@ -61,3 +61,11 @@ In this module, I learned about file systems and the directory structure of the 
 - The system maintenance and information commands allow you to manage and maintain a Microsoft Windows OS. Managing files and directories helps you organize and maintain your computer's file system.
 - File copying and backup tools allow you to copy files or perform advanced file-copying tasks.
 - And hostname and network commands provide information and tools to help you manage and troubleshoot network connections and identify devices on a network.
+
+## Microsoft Management Console
+- The Microsoft Management Console (or MMC) is a user interface provided by Microsoft that allows you as an administrator to customize your environment with MMC tools or snap-ins
+- MMC enables administrators to use multiple snap-ins on one interface
+- MMC provides a customizable environment where you can organize your snap-in tools based on your workflow
+- MMC supports role-based administration, which allows you to assign snap-in tools to specific users and groups
+- Microsoft Windows provides ten built-in snap-in tools, which simplify system management with the following tools:
+- Computer management, group policy management, services, task scheduler, performance monitor, event viewer, device manager, certificate manager, local users and groups, and disk management.
