@@ -7,3 +7,14 @@ In this module, I learned about file systems and the directory structure of the 
 - Use the Microsoft Windows directory structure and file system for effective data management
 - Differentiate between 32-bit and 64-bit Windows operating system architectures to select the appropriate system for your computing needs
 - Compare and contrast Windows user mode and kernel mode components to troubleshoot issues effectively
+
+## Microsoft Windows Systems Overview
+- Windows 10 is an adaptable OS used across various devices and it receives ongoing updates for new features, security, and performance improvements.
+- Home users and retailers use Windows 10 Home as their personalized OS.
+- Small and medium-sized businesses use Windows 10 Pro for its enhanced data security and centralized control features.
+- Large organizations use Windows 10 Enterprise for the tools that deliver security, network optimization, and user customization.
+- High-end desktop and workstation professionals use Windows 10 Pro for its high-performing computing capabilities.
+- Windows 11 Home provides enhanced security features that are not available in Windows 10 Home.
+- Windows 11 Pro offers the same security as Windows 11 Home plus additional security enhancements.
+- Large and medium-sized organizations use Windows 11 Enterprise for its advanced security and comprehensive management skills.
+- Windows 11 Pro for Workstations is built to handle projects that involve intense graphics work and massive data crunching.
