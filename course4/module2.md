@@ -12,3 +12,10 @@ UAC features enhance security and protect against unauthorized changes and malwa
 
 ## User Management and Permissions
 User accounts and groups provide a way to control authentication and access to files, folders, applications, and network services. The difference between running an application or command as an administrator versus a standard user on Windows lies in the level of permissions and privileges granted to each account type. You should use NTFS to set permissions on individual files and folders within an NTFS partition, and use share permissions to provide access to shared folders over a network.
+
+## Antimalware Tools and Microsoft Windows Firewall Configuration
+- Microsoft Defender Antivirus is a built-in antivirus solution provided by Microsoft for Windows 10 and Windows 11 operating systems.
+- It is crucial to keep your antivirus and anti-malware software up-to-date.
+- Software firewalls protect your computer by tracking and controlling network communication.
+- The Windows firewall help safeguard your computer by controlling network access and filtering incoming and outgoing traffic.
+- Social engineering attacks aimed to deceive individuals into revealing sensitive information, providing unauthorized access, or performing actions that compromise security and user education in the form of anti-phishing training should be an ongoing process.
