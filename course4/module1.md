@@ -25,3 +25,12 @@ In this module, I learned about file systems and the directory structure of the 
 - The hierarchical structure of file systems allows for easy navigation and organization.
 - The FAT system, initially designed for simplicity, operates seamlessly across different platforms.
 - NTFS is the standard operating system for Windows and supports advanced features such as file permissions and encryption for enhanced security.
+
+## Directory Structure
+- Windows organizes its files hierarchically, like a tree with the C drive as the root. 
+- Key directories include users for storing personal data and windows for system files.
+- Subdirectories, like System32 and WoW64 contain the system and application files necessary for 32-bit and 64-bit operations.
+- Windows maintains hidden files and folders to prevent accidental modification or deletion by users.
+- Examples include PerfLogs, pagefile.sys and hiberfil.sys.
+- 32-bit systems are limited to 4 gigabytes of memory, which can cause performance issues when running new software.
+- 64-bit applications can use way more memory enabling faster processing of large data sets.
