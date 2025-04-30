@@ -42,3 +42,10 @@ In this module, I learned about file systems and the directory structure of the 
 - In user mode, each code gets a unique virtual address space, whereas in kernel mode, codes share a single virtual address space.
 - Communication between user mode and kernel mode is essential for the smooth functioning of the Windows system.
 - The operating system running in kernel mode acts on behalf of the application to perform hardware related tasks through a system of calls known as system calls.
+
+## Microsoft Windows Server Overview
+- Microsoft Windows Server, an operating system designed specifically for servers, is a comprehensive and reliable OS for building and managing server infrastructure.
+- Network services are designed to streamline network management and enhance security.
+- The key features of network services include DNS, DHCP, VPN, and RDS.
+- Security and access control in the Windows Server OS help to safeguard resources, data, and user identities.
+- The key components of security and access control include Windows firewall, active Directory, RMS BitLocker, and RBAC.
