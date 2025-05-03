@@ -19,3 +19,9 @@ User accounts and groups provide a way to control authentication and access to f
 - Software firewalls protect your computer by tracking and controlling network communication.
 - The Windows firewall help safeguard your computer by controlling network access and filtering incoming and outgoing traffic.
 - Social engineering attacks aimed to deceive individuals into revealing sensitive information, providing unauthorized access, or performing actions that compromise security and user education in the form of anti-phishing training should be an ongoing process.
+
+## Overview of Patching
+- Patches address bugs and vulnerabilities post-release, while updates introduce new features.
+- Patches and updates protect against cyberattacks and ensure the software works well with new technology.
+- Critical software should have security patches applied as soon as released.
+- Patch management includes identifying, acquiring, installing, and verifying software applications and system patches.
