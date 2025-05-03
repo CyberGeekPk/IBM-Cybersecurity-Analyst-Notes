@@ -32,4 +32,21 @@ User accounts and groups provide a way to control authentication and access to f
 - Kerberos leverages a system of three secret keys: client or user hash, TGS secret key, and service server secret key.
 - The protocol involves authentication request initiation, credential verification, message decryption for session keys, and mutual authentication for secure communication.
 
-  
+## Overview of Windows Auditing
+- Security audits are regular security checks for the computer system or network.
+- Security audits thoroughly assess the system's security measures to uncover vulnerabilities and weaknesses.
+- Basic audit policies include:
+- account logon events
+- account management
+- directory service
+- logon events
+- object access
+- policy change
+- privilege use
+- process tracking
+- system events
+- To create an effective audit policy, you should first identify:
+- the critical assets
+- determine actions and events
+- develop a structured audit policy
+- implement it, and review it  
