@@ -25,3 +25,11 @@ User accounts and groups provide a way to control authentication and access to f
 - Patches and updates protect against cyberattacks and ensure the software works well with new technology.
 - Critical software should have security patches applied as soon as released.
 - Patch management includes identifying, acquiring, installing, and verifying software applications and system patches.
+
+## Kerberos
+- Kerberos is an authentication protocol used across insecure networks like the internet to securely exchange service requests between trusted entities.
+- KDC performs two essential operations: user authentication and ticket issuance.
+- Kerberos leverages a system of three secret keys: client or user hash, TGS secret key, and service server secret key.
+- The protocol involves authentication request initiation, credential verification, message decryption for session keys, and mutual authentication for secure communication.
+
+  
