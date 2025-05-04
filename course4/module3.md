@@ -57,3 +57,6 @@ A Linux shell is an OS-level application that you can use to enter commands and 
 - If you want to access a file in a parent directory, type:
 - cd ../\<folder name\>
 - The tab key works the same by autocompleting the folder name.
+
+## Linux File Systems and Directory Structure
+Files are the basic unit of data storage, while directories are special types of files that contain information about other files and directories. Linux uses a single root directory, unlike Windows separate drives. Only the root user can modify the root directory for security. Key directories in Linux include bin, sbin, etc, VAR, temp, home, and boot. Each directory serves a specific purpose. Bin and sbin for executables, etc for configurations, VAR for dynamic data, temp for temporary storage, home for user files, and boot for boot time essentials.
