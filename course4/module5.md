@@ -17,3 +17,24 @@ For part 2, I will use the Skills Network Cloud IDE environment, which provides 
 - Create a new user
 - Manage files and folders
 - Apply system updates
+
+## Ticket 1: Create a new user
+In this task, I will use Microsoft Windows Server Manager to create a new user and group and then add the user to the group.
+
+- Open Server Manager
+- Create a new user named after one of your favorite cartoon characters.
+- Set a secure password.
+- Create a new group named Accounting.
+
+## Ticket 2: Check for virus and threat protection updates
+In this task, I will use the Windows operating system to check for virus and threat protection updates and run a "Quick Scan".
+
+- Check for updates to virus and threat protection.
+- Take a screenshot that shows the date for the protection updates.
+- Run a Quick Scan using Windows Security.
+
+## Ticket 3: Configure firewall and network protection
+Access Windows Defender Firewall with Advanced Security to create a new rule with following properties.
+a. A port rule that controls connections for a TCP port on port 80
+b. Allow the connection on Domain, Private, and Public
+c. Includes the rule name: "Port 80 Permitted"
