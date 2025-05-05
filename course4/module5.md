@@ -38,3 +38,27 @@ Access Windows Defender Firewall with Advanced Security to create a new rule wit
 1.  A port rule that controls connections for a TCP port on port 80
 2.  Allow the connection on Domain, Private, and Public.
 3.  Includes the rule name: "Port 80 Permitted"
+
+## Ticket 4: Create a new user
+- Create a new user with the adduser command and name the user after a favorite cartoon character.
+- Set a secure password and complete other information prompted for.
+- Display the newly created account using the command cat /etc/passwd | grep {username}.
+![image](https://github.com/user-attachments/assets/f3ba8a3f-40a9-4e2b-a019-34d3e65ba928)
+
+### Ticket 5: Manage files and folders
+- Create folders named Accounting and Payroll
+- Display the new folders and take a screenshot.
+- Create a file named Best Practices inside the Accounting folder.
+- Display the contents of the Accounting folder.
+![image](https://github.com/user-attachments/assets/f7d613ed-9e10-48cc-ab52-6e39699b0b64)
+
+## Ticket 6: Apply system updates
+- Check for updates using the sudo apt update command.
+- Use the sudo apt upgrade command to install updates.
+![image](https://github.com/user-attachments/assets/50ada463-3fcc-4aaa-92d4-9787be390e21)
+- Use the less /var/log/dpkg.log command to display a list of recent updates.
+![image](https://github.com/user-attachments/assets/827b775e-0660-4458-9801-739b49567d3d)
+
+
+
+
