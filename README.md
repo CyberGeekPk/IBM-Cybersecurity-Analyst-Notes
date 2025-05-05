@@ -23,3 +23,11 @@ Welcome to my personal learning notes! Here's a quick index:
 - [Module 2: Cybersecurity Threats](course3/module2.md)
 - [Module 3: Cybersecurity Controls](course3/module3.md)
 - [Module 4: Identity & Physical Controls](course3/module4.md)
+
+## Course 4 : Operating Systems: Overview, Administration, and Security
+
+- [Module 1: Windows Operating System](course4/module1.md)
+- [Module 2: Windows Security](course4/module2.md)
+- [Module 3: Linux Operating System](course4/module3.md)
+- [Module 4: Mac Os & Virtualization](course4/module4.md)
+- [Module 5: Final Project](course4/module5.md)
