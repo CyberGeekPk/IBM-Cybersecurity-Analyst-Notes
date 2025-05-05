@@ -35,6 +35,6 @@ In this task, I will use the Windows operating system to check for virus and thr
 
 ## Ticket 3: Configure firewall and network protection
 Access Windows Defender Firewall with Advanced Security to create a new rule with following properties.
-a. A port rule that controls connections for a TCP port on port 80
-b. Allow the connection on Domain, Private, and Public
-c. Includes the rule name: "Port 80 Permitted"
+1.  A port rule that controls connections for a TCP port on port 80
+2.  Allow the connection on Domain, Private, and Public.
+3.  Includes the rule name: "Port 80 Permitted"
