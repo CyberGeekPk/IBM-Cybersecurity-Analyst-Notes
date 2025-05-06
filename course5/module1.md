@@ -1,4 +1,4 @@
-# Module 1 - Network Security Tchniques
+# Module 1 - Network Security Techniques
 
 This module introduces you to network security techniques, including firewall technologies, stateless and stateful inspections, IDS, and IPS systems. You’ll also examine Network Address Translation (NAT) and file integrity monitoring, along with advanced security measures such as Data Loss Prevention (DLP), Network Access Control, and Endpoint Detection and Response (EDR). You'll conclude this module with a hands-on lab where you can gain real-world experience with an open-source Extended Detection and Response (XDR) application.
 
