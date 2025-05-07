@@ -22,3 +22,4 @@ WPANs use IEEE 802.15 for nearby devices, WLANs use IEEE 802.11 for home or offi
 ## Protocol Table
 Protocols determine how data flows on a network. Ports are the first and last stops on a network. Ports send and receive via TCP, UDP, or both. HTTP and HTTPS are web page protocols.
 FTP and SFTP are file transfer protocols. Telnet, SSH, and RDP are remote access protocols. POP3, IMAP4, and SMTP are email protocols. And DHCP, DNS, SMB, SNMP, and LDAP are network protocols.
+
