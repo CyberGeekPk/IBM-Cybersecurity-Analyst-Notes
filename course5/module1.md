@@ -35,3 +35,6 @@ File integrity monitoring is crucial for maintaining system security and quickly
 
 ## Data Loss Prevention
 DLP tools prevent unauthorized access and ensure data integrity for sensitive information. They monitor and block unauthorized data transfers across all data states. DLP ensures compliance with GDPR, HIPAA, and PCI DSS, reducing data breach risks. Core DLP elements include: data classification, policy enforcement, and continuous monitoring, and DLP technologies analyze content, evaluate context, and use encryption for data protection.
+
+## Network Access Control
+Network access control, NAC, ensures that only authorized devices access network resources, reducing security risks. NAC verifies device compliance with security policies, like antivirus updates and enhanced network protection. Implementation involves deploying NAC components, defining access policies, and testing for effective security enforcement. NAC responds to violations by monitoring, isolating non-compliant devices, and automating remediation processes. Integrated with firewalls and antivirus, NAC strengthens network security and meets regulatory compliance standards.
