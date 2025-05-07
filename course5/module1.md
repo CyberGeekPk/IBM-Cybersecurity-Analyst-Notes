@@ -23,3 +23,6 @@ Stateful inspection or dynamic packet filtering is a firewall technology to ensu
 
 ## Firewall Filters with Intrusion Systems
 Firewall filters enforce security policies to regulate inbound and outbound network traffic. Firewall filter types include stateless, stateful, and application level firewalls. Intrusion detection systems continuously scan network traffic and system activities for signs of suspicious behavior. While firewall filters enforce static security policies, IDS and IPS systems add dynamic layers of protection, actively monitoring and preventing potential intrusions or malicious activities.
+
+## Intrusion Detection and Prevention Systems Compared
+IDS monitors network traffic for suspicious activities and potential threats and generates alerts, while IPS uses predefined actions to prevent attacks. IDS systems have little to no impact on the network and IPS can affect network performance. IDS provides detailed analysis and alerts but can generate false positives and, without automatic interception capabilities, require human intervention. IPS provides real-time threat prevention and mitigation but can impact network performance and report false positives. And both IDS and IPS are part of a layered defense.
