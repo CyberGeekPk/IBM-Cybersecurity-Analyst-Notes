@@ -29,3 +29,6 @@ IDS monitors network traffic for suspicious activities and potential threats and
 
 ## Network Address Translation
 Network address translation modifies IP address information in packet headers to mask internal IP addresses for outbound data and translates public IP addresses back to private addresses for inbound data. NAT provides a layer of security against external threats by hiding internal IP addresses. Static NAT, dynamic NAT, and port address translation (PAT) are three types of network address translations. You can use NAT to mask internal IP addresses for devices sending and receiving data and for devices on networks that need to share IP addresses but use different ports. And common NAT issues include port forwarding problems, IP address conflicts, and performance overhead.
+
+## File Integrity Monitoring
+File integrity monitoring is crucial for maintaining system security and quickly detecting unauthorized changes that may indicate breaches or malicious activity. Core components and processes for FIM include establishing a reliable file system baseline, monitoring file integrity, providing reports, and maintaining the system, and file integrity monitoring complements other security measures such as firewalls and antivirus solutions to provide a robust defense strategy.
