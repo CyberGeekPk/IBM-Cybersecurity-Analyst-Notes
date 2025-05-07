@@ -17,3 +17,6 @@ This module introduces you to network security techniques, including firewall te
 
 ## Stateless Inspectiona 
 Stateless inspection means that the devices inspect each data packet individually at both the source and destination ports without knowledge of the previous packet. Stateless inspections can happen when a user sends or receives browser data. Organizations use stateless inspections to control traffic going in or out of their organization, perform network troubleshooting, control traffic routing, and perform quality of service and class of service tasks. Stateless inspection is faster than stateful inspection, providing network controls and support for troubleshooting purposes when classifying packets.
+
+## Stateful inspection
+Stateful inspection or dynamic packet filtering is a firewall technology to ensure smooth flow of network packets. Stateful inspection involves inspecting each packet in a session. A session consists of packets exchanged between parties. Session elements include source IP address, the destination IP address, the source port, the destination port, and an identifier. The stateless inspection is performed before stateful inspection.
