@@ -32,3 +32,6 @@ Network address translation modifies IP address information in packet headers to
 
 ## File Integrity Monitoring
 File integrity monitoring is crucial for maintaining system security and quickly detecting unauthorized changes that may indicate breaches or malicious activity. Core components and processes for FIM include establishing a reliable file system baseline, monitoring file integrity, providing reports, and maintaining the system, and file integrity monitoring complements other security measures such as firewalls and antivirus solutions to provide a robust defense strategy.
+
+## Data Loss Prevention
+DLP tools prevent unauthorized access and ensure data integrity for sensitive information. They monitor and block unauthorized data transfers across all data states. DLP ensures compliance with GDPR, HIPAA, and PCI DSS, reducing data breach risks. Core DLP elements include: data classification, policy enforcement, and continuous monitoring, and DLP technologies analyze content, evaluate context, and use encryption for data protection.
