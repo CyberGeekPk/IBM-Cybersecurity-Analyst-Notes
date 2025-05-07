@@ -14,3 +14,6 @@ This module introduces you to network security techniques, including firewall te
 - Define stateless firewall
 - Compare Intrusion Detection Systems (IDS) and Intrusion Protection Systems (IPS)
 - Discuss stateless Network Address Translation (NAT)
+
+## Stateless Inspectiona 
+Stateless inspection means that the devices inspect each data packet individually at both the source and destination ports without knowledge of the previous packet. Stateless inspections can happen when a user sends or receives browser data. Organizations use stateless inspections to control traffic going in or out of their organization, perform network troubleshooting, control traffic routing, and perform quality of service and class of service tasks. Stateless inspection is faster than stateful inspection, providing network controls and support for troubleshooting purposes when classifying packets.
