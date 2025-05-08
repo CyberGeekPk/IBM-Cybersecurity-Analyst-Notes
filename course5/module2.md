@@ -19,3 +19,6 @@ After completing this module, you will be able to explain and apply IP addressin
 - Describe IP protocols and their relationship with network traffic routing
 - Implement network routing and address resolution protocols
 - Secure a small office/home office (SOHO) network
+
+## IP Addressing - The Basics of Binary
+Decimal operates on base 10, while binary operates on base two. Hexadecimal, base 16 offers a more compact number representation compared to binary. To calculate the number representations by raise the base to the power of the number of digits available. To convert from any base system to decimal, draw a table where column headers represent the base raised to increasing powers.
