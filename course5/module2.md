@@ -22,3 +22,6 @@ After completing this module, you will be able to explain and apply IP addressin
 
 ## IP Addressing - The Basics of Binary
 Decimal operates on base 10, while binary operates on base two. Hexadecimal, base 16 offers a more compact number representation compared to binary. To calculate the number representations by raise the base to the power of the number of digits available. To convert from any base system to decimal, draw a table where column headers represent the base raised to increasing powers.
+
+## IP Address Structure and Network Classes
+IPv4 or Internet protocol version 4 is the foundational protocol used for identifying and locating devices on networks since its introduction in 1983. It utilizes a 32-bit addressing scheme divided into four octets, each representing a segment of the address, crucial for network and host identification. Class A, B, C, D, and E networks categorize addresses based on their range and intended use from unicast communication to multicasting and experimental purposes. Despite its widespread adoption, IPv4 faces challenges such as address exhaustion due to the rapid growth of Internet connected devices, prompting the development of IPv6.
