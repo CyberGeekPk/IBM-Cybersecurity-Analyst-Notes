@@ -50,3 +50,15 @@ Scenario: After implementing the network design in Task 1 and configuring the IP
 
 ### Deliverables: Submit one screenshots of your Wireshark analysis:
 Screenshot of the Wireshark application displaying filtered traffic.
+
+## Task 4: Configure Firewall Rules Using Microsoft Windows Defender Firewall
+Scenario: TechSafe Ltd. wants to further secure its internal network by restricting access to specific types of web traffic. To enhance security, you must go to each workstation and configure Microsoft Windows Defender Firewall to block all FTP and HTTP traffic.
+
+### Steps
+- Open a terminal window and type  ftp ftp.dlptest.com
+- Capture a screenshot that shows successful access to ftp ftp.dlptest.com before applying the firewall rule.
+- Open Microsoft Windows Defender Firewall and access its advanced settings to create a new custom outbound rule to block all FTP traffic (Port 21).
+- Verify that the rule to block FTP access is working. Open a terminal window and again type ftp ftp.dlptest.com to confirm that access is blocked.
+- Open a browser and access http://httpforever.com/. If you see a cautionary message that this website is not secured, select the onscreen message that enables you to proceed to the site.
+- Open Windows Defender Firewall and access the advanced settings to create a new custom outbound rule to block all HTTP traffic (Port 80).
+- Verify that the HTTP traffic is active and correctly configured within your firewall settings by attempting to access http://httpforever.com/.
