@@ -28,3 +28,29 @@ TCP packet information contains the sender, an identifying recipient, data verif
 
 ## Application and Transport Protocols, Part 2
 TCP transmission control protocol ensures reliable data transmission by establishing a connection, tracking data packets and requiring acknowledgments. UDP, user datagram protocol offers faster data transmission without establishing a connection or requiring acknowledgments. A three-way handshake includes the sender sending an SYN request, the recipient responding with a SYN-ACK, and the sender replies with an ACK. The components of TCP include source and destination ports, sequence and acknowledgment numbers, and flags, and applications using TCP include HTTP, HTTPS, SMTP, and FTP.
+
+## Exercises
+### Exercise 1: Capture and Analyze HTTPS Traffic (TCP)
+- Objective: Experience how Hypertext Transfer Protocol Secure( HTTPS) operates over TCP by capturing and analyzing its traffic.
+- Open Wireshark using Run as Administrator and start a new capture session.
+- In the filter bar, enter tcp port 443 to capture HTTPS traffic
+- Open a web browser and visit any secure website (such as https://www.google.com).
+- Stop the capture after a few seconds.
+- Analyze the captured packets to identify the TCP three-way handshake (SYN, SYN-ACK, ACK).
+- Observe the encrypted HTTPS traffic and note the absence of visible content due to encryption, while still understanding the flow of requests and responses.
+
+### Exercise 2: Capture and Analyze DNS Traffic (UDP)
+- Objective: Experience how User Datagram Prootcol (UDP) operates by capturing and analyzing its traffic.
+- Open Wireshark using Run as Administrator and start a new capture session.
+- In the filter bar, enter udp port 53 to capture UDP traffic.
+- To generate DNS traffic, type nslookup command in command prompt.
+- Stop the capture after a few seconds.
+- Analyze the captured data to look for DNS requests and responses. Examine the UDP headers.
+
+### Exercise 3: Capture and Analyze ARP Traffic (Layer 2)
+- Objective: Experience how Address Resolution Prootcol (ARP) operates by capturing and analyzing its traffic.
+- Open Wireshark using Run as Administrator and start a new capture session
+- In the filter bar, enter ARP to capture ARP traffic.
+- To enerate ARP traffic, type arp -a command in the command prompt.
+- Stop the capture after a few seconds
+- Analyze the capture lookng for ARP requests and responses. Examine ARP packet details.
