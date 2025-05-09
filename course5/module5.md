@@ -14,3 +14,9 @@ In this final project you'll apply your skills to a real-life scenario where you
 - Calculate subnet addresses and subnet masks
 - Analyze HTTP/HTTPS Traffic for one website using Wireshark
 - Configure firewall rules using Microsoft Windows Defender  Firewall
+
+## Final project requirements:
+If you decide to try this poject on your own machine, you will need access to:
+
+- A workstation running Microsoft Windows 10 or later
+- Administrator rights to the workstation
