@@ -56,3 +56,5 @@ TCP transmission control protocol ensures reliable data transmission by establis
 - To enerate ARP traffic, type arp -a command in the command prompt.
 - Stop the capture after a few seconds
 - Analyze the capture lookng for ARP requests and responses. Examine ARP packet details.
+
+# Application Layer Overview
