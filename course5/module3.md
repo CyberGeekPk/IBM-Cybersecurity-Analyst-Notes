@@ -67,3 +67,12 @@ DNS filtering supports cybersecurity efforts by using the DNS system to block ac
 
 ## Syslog Message Logging Protocol
 The Syslog protocol separates the software that generates messages, the system that stores them, and the software that reports and analyzes those messages. System administrators use Syslog for system management, security auditing, general informational analysis, debugging messages, event notification messages, and forensic research. The Syslog includes a content layer for storing messages, an application layer for message generation, interpretation, routing, and storage, and a transport layer for managing the transportation of Syslog messages across the network. Syslog players include the originator, the collector, the relay server, the transport sender, and the transport receiver. Syslog message components include the facility code, severity level, the originator process ID, timestamp, and the reporting device hostname or IP address.
+
+## Flows and Network Analysis
+Network flows provide statistics about packet flow through routers. Network flows collect samples of the flows using devices such as routers and switches, network flow applications report on packet usage, bytes sent, time of day/time stamps, port utilization, QoS, application, routing and pairing, and protocols in use, and the NetFlow dashboard categorizes traffic based on the application that's using the interface, providing bytes of data and packet information.
+
+## Port Mirroring and Promiscuous Mode
+Port mirroring helps to analyze data and detect network errors. Remote Switch Port Analyzer, or RSPAN, allows the destination port to be remote. Intrusion detection systems, IDS, help to analyze destination ports and monitor real-time traffic to detect anomalies. Wireshark helps to put NIC in promiscuous mode. 
+
+## User Behavior Analysis
+User behavior analysis involves systematic monitoring and detailed analysis of user actions within a network, to identify patterns and anomalies. User behavior analysis concepts include baselining normal behavior, anomaly detection, and contextual awareness. UBA techniques and tools include machine learning algorithms, statistical analysis, and log analysis. Some UBA implementation techniques include data collection, integration with SIEM systems, and continuous monitoring. While implementing UBA, you must remain aware of data privacy concerns, false positives, and scalability. UBA help safeguard companies across industries and user roles from financial to healthcare.
