@@ -44,3 +44,9 @@ Before capturing the screenshot, verify that your table displays the following i
 - One row for each subnet (Administration, Sales, IT).
 - Each subnet name's subnet address, mask, and IP address range.
 - No additional text beyond the table.
+
+## Task 3: Analyze HTTP/HTTPS Website Traffic for Using Wireshark
+Scenario: After implementing the network design in Task 1 and configuring the IP addresses and subnets during Task 2, TechSafe Ltd. needs you to monitor network usage related to website that their employees might access. Your task is to capture and analyze HTTP/HTTPS traffic from one of the following websites to identify and understand the data flow related to these two services.
+
+### Deliverables: Submit one screenshots of your Wireshark analysis:
+Screenshot of the Wireshark application displaying filtered traffic.
