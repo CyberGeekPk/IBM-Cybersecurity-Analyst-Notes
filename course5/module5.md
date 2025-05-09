@@ -30,3 +30,17 @@ Scenario: Design a network diagram for TechSafe Ltd that includes three departme
 - One router connected to one switch. The router connects to the switch with a line. Label the router as Router and label the switch as Switch.
 - Three subnets that connect to the switch using solid lines The three subnets are labeled as Administration, Sales, and IT.
 - The diagram includes no additional elements beyond the router, switch, and subnets.
+
+## Task 2: Calculate Subnet Addresses and Subnet Masks
+Scenario: You are working with a fixed IP address of 198.51.100.0/24. The network is divided into three subnets with the following IP address ranges for each department:
+- Administration: 198.51.100.1 - 198.51.100.62
+- Sales: 198.51.100.65 - 198.51.100.126
+- IT: 198.51.100.129 - 198.51.100.190
+Your task is to calculate each department's subnet addresses and subnet masks based on their specified IP address ranges and save that information into a text-based table for later use.
+
+### Deliverable: A screenshot of the department subnet addresses, masks, and address ranges
+Before capturing the screenshot, verify that your table displays the following information:
+- Four columns: Subnet Name, Subnet Address, Subnet Mask, and IP Address Range. These labels are displayed at the top of each column.
+- One row for each subnet (Administration, Sales, IT).
+- Each subnet name's subnet address, mask, and IP address range.
+- No additional text beyond the table.
