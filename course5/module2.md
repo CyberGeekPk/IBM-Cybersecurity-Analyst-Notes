@@ -69,3 +69,12 @@ IPv6 Address: 2001:abcd:1234::/48
 Required Subnets: 4
 Hint
 To create 4 subnets, you need to borrow 2 bits from the host portion. Adjust the CIDR notation and subnet mask accordingly.
+
+## Basics of Network Routing
+Layer 2 addresses or MAC addresses are embedded in network interface cards and serve as physical identifiers. Layer 3 addresses or IP addresses are used for logical addressing across networks. The ARP process ensures that data sent to an IP address reaches the correct device within a local network, and routing tables help determine the best path for data packets.
+
+## Layer 2 and Layer 3 Addressing
+Network interfaces may be a single chip or a whole network interface card, commonly referred to as NIC. MAC spoofing is used to bypass MAC address filtering by setting up on a firewall to protect assets. MAC address is 48 bits long or a string of 48, ones and zeros, divided into six octets or six groups of eight bits each. Broadcast domains can also be called virtual LANs or VLANs.
+
+## Address Resolution Protocol
+Address resolution protocol, ARP is pivotal in networking, translating IP addresses to MAC addresses for effective data transmission across devices within the same broadcast domain. The ARP table, accessible through commands like ARPA, provides crucial mappings of IP addresses to MAC addresses, aiding and troubleshooting the network management across different operating systems. MAC addresses are essential for transmitting data within the same broadcast domain or local network.
