@@ -31,3 +31,41 @@ Internet protocol, IP, and IP addresses, route data packets within networks and 
 
 ## Introduction to the IPv6 Address Schema
 IPv6 extends IP addresses from 32 bits to 128 bits, vastly increasing the number of possible addresses. IPv6 addresses use eight groups of four hexadecimal digits separated by colons. In IPv6, a double colon can replace consecutive zeros in an address, but can only be used once. IPv6 headers are simpler and more efficient than IPv4 headers, improving processing speed. IPv6 supports unicast, multicast, and Anycast, replacing IPv4's broadcast method with Anycast.
+
+## Exercises
+### IPv4 Exercises
+#### Exercise 1: IPv4 Subnet Mask Calculation
+
+Instructions
+Given an IP address and a CIDR prefix, determine the subnet mask in decimal format.
+
+Given
+
+IP Address: 172.16.0.0/20
+Hint:
+The /20 notation means the first 20 bits are for the network portion. Convert this to a decimal subnet mask.
+
+#### Exercise 2: IPv4 Subnet Calculation
+
+Instructions
+You need to divide a given network into smaller subnets. Calculate the new subnet mask and list a few resulting subnets with their address ranges.
+
+Given
+
+Network Address: 192.168.10.0/24
+Required Subnets: 8
+Hint
+To create 8 subnets, you'll need to borrow a certain number of bits from the host portion. Adjust the CIDR notation accordingly and determine the new subnet mask.
+
+### IPv6 Exercise
+#### Exercise 1: IPv6 Subnetting
+
+Instructions
+You are given an IPv6 address and need to create subnets. Calculate the new subnet mask and list a few of the resulting subnets.
+
+Given
+
+IPv6 Address: 2001:abcd:1234::/48
+Required Subnets: 4
+Hint
+To create 4 subnets, you need to borrow 2 bits from the host portion. Adjust the CIDR notation and subnet mask accordingly.
