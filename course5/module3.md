@@ -22,3 +22,9 @@ In this module, you'll learn about network protocols and security measures, comb
 - Describe how networks use the Syslog Messaging protocol
 - Demonstrate how to configure and manage DNS and DHCP services
 - Differentiate between how networks use UDP and TCP transport protocols
+
+## Application and Transport Protocols, Part 1
+TCP packet information contains the sender, an identifying recipient, data verification packets, and a list of packets in order. TCP data transmissions include information that enables the receiving computer to verify receipt of all the packets and their order. UDP sends data packets without confirming that the correct computer received the data packets. UDP might send the packet data out of order and not verify that the receiving computer received all the packets. UDP protocols specify source and destination ports to direct data packets to the correct application on a device for proper communications, and FTP, DNS, SNMP, DHCP, VoIP, and IPTV. Use UDP and specific ports for fast efficient data transfer, often prioritizing speed over reliability for file transfers, name queries, IP management, voice communication, and TV streaming.
+
+## Application and Transport Protocols, Part 2
+TCP transmission control protocol ensures reliable data transmission by establishing a connection, tracking data packets and requiring acknowledgments. UDP, user datagram protocol offers faster data transmission without establishing a connection or requiring acknowledgments. A three-way handshake includes the sender sending an SYN request, the recipient responding with a SYN-ACK, and the sender replies with an ACK. The components of TCP include source and destination ports, sequence and acknowledgment numbers, and flags, and applications using TCP include HTTP, HTTPS, SMTP, and FTP.
