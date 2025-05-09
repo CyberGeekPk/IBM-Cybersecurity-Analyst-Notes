@@ -58,3 +58,9 @@ TCP transmission control protocol ensures reliable data transmission by establis
 - Analyze the capture lookng for ARP requests and responses. Examine ARP packet details.
 
 # Application Layer Overview
+
+## DNS and DHCP
+DNS, or domain name system, is a network service that helps translate domain names to IP addresses. DHCP automatically assigns IP addresses to devices, eliminating the need for manual configurations. The DHCP process involves four main messages, discover, offer, request, and acknowledgement. Wireshark captures DHCP packets and helps diagnose issues in the DHCP communication process.
+
+## DNS Filtering
+DNS filtering supports cybersecurity efforts by using the DNS system to block access to specific websites or services, including malware. DNS filtering systems check the requested domain against a list of block domains and deny or redirect the request if required. DNS filtering blocks access to malicious sites, preventing cyber threats, infections, and data breaches, and reduces attackers' potential entry points. DNS filtering supports cybersecurity, controls the content, and enhances data privacy. To implement a DNS filtering system, evaluate and select a solution, then deploy, configure, and maintain your system.
