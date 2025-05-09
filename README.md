@@ -31,3 +31,12 @@ Welcome to my personal learning notes! Here's a quick index:
 - [Module 3: Linux Operating System](course4/module3.md)
 - [Module 4: Mac Os & Virtualization](course4/module4.md)
 - [Module 5: Final Project](course4/module5.md)
+
+## Course 5 : Computer Networks & Network Security
+
+- [Module 1: Networking Fundamentals](course5/module1.md)
+- [Module 2: IP Addressing, Routing & Switching](course5/module2.md)
+- [Module 3: Network Protocols](course5/module3.md)
+- [Module 4: Network Security Techniques](course5/module4.md)
+- [Module 5: Final Project](course5/module5.md)
+
