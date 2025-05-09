@@ -20,3 +20,13 @@ If you decide to try this poject on your own machine, you will need access to:
 
 - A workstation running Microsoft Windows 10 or later
 - Administrator rights to the workstation
+
+## Scenario:
+TechSafe, Ltd. has hired you to design and secure its network. The company uses a fixed IP address from its Internet service provider (ISP) and wants a structured network with compatible IP addressing, subnetting, and security configurations.
+
+## Task 1: Design a network with subnets
+Scenario: Design a network diagram for TechSafe Ltd that includes three departments: Administration, Sales, and IT. Each department requires its own subnet.
+### Deliverable: A screenshot of the network diagram.
+- One router connected to one switch. The router connects to the switch with a line. Label the router as Router and label the switch as Switch.
+- Three subnets that connect to the switch using solid lines The three subnets are labeled as Administration, Sales, and IT.
+- The diagram includes no additional elements beyond the router, switch, and subnets.
