@@ -61,3 +61,11 @@ A Non-Relational Database (also called NoSQL) stores data in a way other than ta
 
 ## Relational Data Concepts
 Key advantage of the relational model is logical and physical data independence and storage independence. Entities are independent objects which can have multiple characteristics called attributes. When mapping to a relational database, entities are represented as tables and attributes map to columns. Common data types include characters such as CHAR and VARCHAR, numbers such as integer and decimal, and timestamps including date and time. A primary key uniquely identifies a specific row in a table and prevents duplication of data.
+
+## Summary: Database Fundamentals
+
+- Databases play a crucial role in efficiently storing, managing, and querying business-critical data.
+- The relational databases use structured tables and SQL, and non-relational (NoSQL) databases offer flexibility and scalability for various data types.
+- Relational databases provide benefits such as data integrity, reduced redundancy, and strong backup options, though they face challenges with unstructured data and scalability in large data contexts.
+- NoSQL databases offer flexible schemas and support high-scale, high-performance applications through various data models, such as key-value, document, column, and graph-based storage. However, they lack the ACID compliance and structure of relational databases.
+
