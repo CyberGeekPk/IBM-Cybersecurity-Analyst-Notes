@@ -14,3 +14,23 @@ In this module, you will explore basic SQL statements. You will also learn about
 - Explain database management and review major SQL command categories
 - List the types of database backups and their importance
 - Execute SQL commands to perform basic database operations
+
+# SQL Basics
+
+## SELECT command
+- The SELECT command is used in SQL (Structured Query Language) to retrieve data from a database.
+- Basic Syntax of SELECT: SELECT column1, column2 FROM table_name;
+
+### Important Concepts Related to SELECT:
+- Selecting All Columns: If you want to get every column from a table, use * instead of specifying column names.
+- SELECT * FROM employees;
+- Filtering Data with WHERE: You can filter the results to get only the data you want by using the WHERE clause.
+- SELECT first_name, last_name FROM employees WHERE department = 'Sales';
+- Sorting Data with ORDER BY: You can sort your results using ORDER BY. By default, it sorts in ascending order, but you can specify descending order as well.
+- SELECT first_name, last_name FROM employees ORDER BY last_name ASC;
+- Limiting Results with LIMIT: If you only want to retrieve a certain number of rows, you can use LIMIT.
+- Aggregating Data with Functions: SQL has several built-in functions to summarize or perform calculations on data. Common ones are COUNT(), SUM(), AVG(), MIN(), and MAX().
+- Grouping Data with GROUP BY: When you need to group rows based on a column and apply aggregate functions like COUNT() or SUM(), you can use GROUP BY.
+- Combining Data with JOIN: Sometimes, you need to get data from multiple tables. This is where JOIN comes in. A JOIN combines rows from two or more tables based on a related column between them.
+- Using Aliases: You can give tables and columns temporary names (aliases) to make queries easier to read.
+
