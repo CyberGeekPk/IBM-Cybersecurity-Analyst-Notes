@@ -8,3 +8,26 @@ In this module, you will be introduced to a foundational overview of data and da
 - Describe the different types of NoSQL databases and their applications to evaluate their suitability for various data storage needs
 - Review the relational model, including entity-to-table mapping, data types, and the role of primary keys
 - Apply your knowledge of relational database concepts and entity-relationship (ER) diagrams and analyze terms like entity, attribute, and keys
+
+## Relational Database
+A Relational Database is a way to store and organize data in tables. Each table looks like a grid (like a spreadsheet) with rows and columns.
+- Rows = individual records (e.g., one student)
+- Columns = fields or attributes (e.g., name, age, grade)
+- The term "relational" means these tables are linked (related) to each other using keys.
+
+### Key Concepts:
+- Tables: These are like spreadsheets that hold data about one type of thing (e.g., Customers, Orders, Products)
+- Rows: Each row is a single record (like one customer's information)
+- Columns: These are the categories of information (like "Name", "Address", "Phone Number")
+- Primary Key: A unique ID for each row (like a customer ID number)
+- Foreign Key: A reference that links one table to another (like putting a customer ID in an order record)
+
+### Important Related Concepts:
+- SQL: The language used to talk to relational databases ("Structured Query Language")
+- Indexes: Like a book index - helps the database find information faster
+- Normalization: Organizing data to reduce duplication (makes databases more efficient)
+- Transactions: Groups of operations that must all succeed or fail together (like bank transfers)
+- ACID Properties: Rules that keep database operations reliable (Atomic, Consistent, Isolated, Durable)
+
+## Relational Data Concepts
+Key advantage of the relational model is logical and physical data independence and storage independence. Entities are independent objects which can have multiple characteristics called attributes. When mapping to a relational database, entities are represented as tables and attributes map to columns. Common data types include characters such as CHAR and VARCHAR, numbers such as integer and decimal, and timestamps including date and time. A primary key uniquely identifies a specific row in a table and prevents duplication of data.
