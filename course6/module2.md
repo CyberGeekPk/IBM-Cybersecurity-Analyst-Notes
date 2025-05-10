@@ -77,3 +77,8 @@ The DELETE command is used to remove rows from a table. You can delete all rows 
 #### Basic Syntax of DELETE:
 - DELETE FROM table_name
 - WHERE condition;
+
+# Roles, Permissions & Backup
+
+## Database Roles and Permissions
+Permissions provide the authority to access a database, tables, objects, and other system resources in a specified manner to allow selection, insertion, or modification of data rows. A database role is a collection of any number of permissions that can be assigned to one or more users. Roles allow granting and managing sets of permissions for various categories of users, rather than granting those permissions to each user individually. And roles can be granted and revoked at any time, allowing for more flexibility in maintaining a database.
