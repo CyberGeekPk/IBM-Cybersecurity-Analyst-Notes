@@ -22,6 +22,37 @@ A Relational Database is a way to store and organize data in tables. Each table 
 - Primary Key: A unique ID for each row (like a customer ID number)
 - Foreign Key: A reference that links one table to another (like putting a customer ID in an order record)
 
+## Non-Relational Database
+A Non-Relational Database (also called NoSQL) stores data in a way other than tables. It’s flexible and better for handling large or unstructured data (like photos, videos, or big documents).
+- Unlike relational databases, it doesn't need fixed table columns or strict rules.
+- It’s great for apps that grow quickly or have changing data.
+
+## Main Types of Non-Relational Databases:
+### Document Stores:
+
+- Stores data like "documents" (usually JSON format)
+- Example: Customer records with all their info in one document
+- Databases: MongoDB, CouchDB
+
+### Key-Value Stores:
+
+- Super simple: like a dictionary with keys and values
+- Example: Username (key) and User Preferences (value)
+- Databases: Redis, DynamoDB
+
+### Wide-Column Stores:
+
+- Like tables but columns can vary by row
+- Good for huge datasets (billions of rows)
+- Databases: Cassandra, HBase
+
+### Graph Databases:
+
+- Stores how things are connected (like social networks)
+- Example: Who is friends with whom
+- Databases: Neo4j, ArangoDB
+
+
 ### Important Related Concepts:
 - SQL: The language used to talk to relational databases ("Structured Query Language")
 - Indexes: Like a book index - helps the database find information faster
