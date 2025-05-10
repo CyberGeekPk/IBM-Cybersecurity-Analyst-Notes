@@ -22,6 +22,13 @@ A Relational Database is a way to store and organize data in tables. Each table 
 - Primary Key: A unique ID for each row (like a customer ID number)
 - Foreign Key: A reference that links one table to another (like putting a customer ID in an order record)
 
+### Important Related Concepts:
+- SQL: The language used to talk to relational databases ("Structured Query Language")
+- Indexes: Like a book index - helps the database find information faster
+- Normalization: Organizing data to reduce duplication (makes databases more efficient)
+- Transactions: Groups of operations that must all succeed or fail together (like bank transfers)
+- ACID Properties: Rules that keep database operations reliable (Atomic, Consistent, Isolated, Durable)
+
 ## Non-Relational Database
 A Non-Relational Database (also called NoSQL) stores data in a way other than tables. It’s flexible and better for handling large or unstructured data (like photos, videos, or big documents).
 - Unlike relational databases, it doesn't need fixed table columns or strict rules.
@@ -51,14 +58,6 @@ A Non-Relational Database (also called NoSQL) stores data in a way other than ta
 - Stores how things are connected (like social networks)
 - Example: Who is friends with whom
 - Databases: Neo4j, ArangoDB
-
-
-### Important Related Concepts:
-- SQL: The language used to talk to relational databases ("Structured Query Language")
-- Indexes: Like a book index - helps the database find information faster
-- Normalization: Organizing data to reduce duplication (makes databases more efficient)
-- Transactions: Groups of operations that must all succeed or fail together (like bank transfers)
-- ACID Properties: Rules that keep database operations reliable (Atomic, Consistent, Isolated, Durable)
 
 ## Relational Data Concepts
 Key advantage of the relational model is logical and physical data independence and storage independence. Entities are independent objects which can have multiple characteristics called attributes. When mapping to a relational database, entities are represented as tables and attributes map to columns. Common data types include characters such as CHAR and VARCHAR, numbers such as integer and decimal, and timestamps including date and time. A primary key uniquely identifies a specific row in a table and prevents duplication of data.
