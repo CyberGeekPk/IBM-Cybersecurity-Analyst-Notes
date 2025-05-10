@@ -55,3 +55,25 @@ The LIMIT command in SQL is used to limit the number of rows returned by a query
 - SELECT column_name
 - FROM table_name
 - LIMIT number;
+
+### INSERT Command
+The INSERT command is used to insert data into a table. It allows you to add one or more rows of data to a specified table in your database.
+
+#### Basic Syntax of INSERT:
+- INSERT INTO table_name (column1, column2, column3, ...)
+- VALUES (value1, value2, value3, ...);
+
+### UPDATE Command
+The UPDATE command is used to modify existing records in a table. You can use it to change the values of one or more columns in a particular row or set of rows.
+
+#### Basic Syntax of UPDATE:
+- UPDATE table_name
+- SET column1 = value1, column2 = value2, ...
+- WHERE condition;
+
+### DELETE Command
+The DELETE command is used to remove rows from a table. You can delete all rows or just a specific set of rows based on a condition.
+
+#### Basic Syntax of DELETE:
+- DELETE FROM table_name
+- WHERE condition;
