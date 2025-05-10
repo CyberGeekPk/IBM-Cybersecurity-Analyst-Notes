@@ -34,3 +34,24 @@ In this module, you will explore basic SQL statements. You will also learn about
 - Combining Data with JOIN: Sometimes, you need to get data from multiple tables. This is where JOIN comes in. A JOIN combines rows from two or more tables based on a related column between them.
 - Using Aliases: You can give tables and columns temporary names (aliases) to make queries easier to read.
 
+### COUNT
+The COUNT command in SQL is used to count the number of rows that match a specific condition in a database. It is an aggregate function, which means it performs a calculation on a set of values to return a single result.
+
+#### Basic Syntax of COUNT:
+- SELECT COUNT(column_name)
+- FROM table_name;
+
+### DISTINCT
+The DISTINCT command in SQL is used to remove duplicate values from the result set. It ensures that the query returns only unique values.
+
+#### Basic Syntax of DISTINCT:
+- SELECT DISTINCT column_name
+- FROM table_name;
+
+### LIMIT
+The LIMIT command in SQL is used to limit the number of rows returned by a query. This is helpful when you only want to see a specific number of results, instead of the entire dataset, which might be very large.
+
+#### Basic Syntax of LIMIT:
+- SELECT column_name
+- FROM table_name
+- LIMIT number;
