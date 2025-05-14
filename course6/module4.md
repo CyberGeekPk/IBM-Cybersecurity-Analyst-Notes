@@ -5,3 +5,9 @@ In this module, you will gain a comprehensive understanding of injection vulnera
 
 ## Introduction to Injection Flaws 
 Injection flaws allow attackers to relay malicious code through the vulnerable application to another system. You also learned that they have been consistently rated as the most dangerous type of vulnerability across lists like OS Top 10 and SANS Top 25. Finally, you learned that injection vulnerabilities have been responsible for attacks like the Equifax Hack and the Hack of TalkTalk.
+
+## OS Command Injection: Part 1
+OS command injection is the abuse of vulnerable application functionality that causes the execution of OS commands specified by the attacker. These vulnerabilities can be caused by a lack of input sanitization and the unsafe execution of OS commands. Recommendations to prevent OS command injections include using the functionality built into the language or third-party libraries and running OS commands at least privilege possible.
+
+## OS Command Injection: Part 2
+Third recommendation to prevent OS command injection is to not run commands through shell interpreters. When you run the command directly without passing it to the shell interpreter, it makes the whole set of shell syntaxes invalid. You must scrutinize how to operate on the user's input so that a malicious command is not executed. The fourth recommendation to prevent OS command injections is to use explicit paths when running executables. To protect against it, you should reference all the executables you run by their full path. This way, there is no ambiguity and the right executable will be loaded. Recommendation 4 also applies to DLL hijacking and shared libraries. Explicit references will help you avoid DL hijacking.
