@@ -40,3 +40,10 @@ Welcome to my personal learning notes! Here's a quick index:
 - [Module 4: Network Security Techniques](course5/module4.md)
 - [Module 5: Final Project](course5/module5.md)
 
+## Course 6 : Database Essentials & Vulnerabilities
+
+- [Module 1: Database Fundamentals](course6/module1.md)
+- [Module 2: SQL Basics and Database Management Fundamentals](course6/module2.md)
+- [Module 3: Database Security & Data Protection Strategies](course6/module3.md)
+- [Module 4: Injection Vulnerabilities](course6/module4.md)
+
