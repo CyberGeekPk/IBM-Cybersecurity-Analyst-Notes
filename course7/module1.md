@@ -50,9 +50,41 @@ How do we keep those from not happening? We're going to use these cryptographic 
 ## Availability
 Availability means that the system should be available, the resources should be available to authorized users--that they can get access when they need it.
 
-![image](https://github.com/user-attachments/assets/5f85d65d-d903-4a9d-b3d3-106e4e9c6271)
-
 ### Solutions to Ensure Availability
 - Fail-safe mechanisms: Automatically respond to a failure or malfunction to prevent further damage or harm
 - Perform regular backups: Routinely create copies of data and store them in a separate location to restore the original data in the event of data loss or disruption
 - Disaster recovery plan: Create policies to ensure the rapid restoration of systems, data, and infrastructure in the event of natural disasters, cyber-attacks, and other unforeseen events
+
+![image](https://github.com/user-attachments/assets/5f85d65d-d903-4a9d-b3d3-106e4e9c6271)
+
+# Roles and Tools
+
+## Role and Mindset
+AIt all starts with stakeholders providing their requirements to the architect. The architect will develop reference architecture diagrams that show the relations between the high-level components. The architecture diagrams will be translated into an IT architecture diagram.
+
+A simple architecture diagram with a user accessing a device (Desktop/laptop/mobile), which then connects to a web server, which in turn connects with the Application server and accesses a database to retrieve information.
+The architect then transfers the information to the engineer, who will implement the system.
+
+Tip: Architect = Whiteboard; Engineer = Keyboard
+
+An architect must understand how a system works to assess how and where the system might fail. Always ask: What do I do to prevent the system from failing? And then figure out how to prevent the failure.
+
+## Commonly Used Tools of the Trade for an Architect
+In the case of IT, an architect is creating diagrams. The diagrams act as tools for the architects, and the most common ones are:
+
+- Business Context diagrams provide a high-level line of business view. They show the relationship between different entities in a system.
+- System Context diagrams decompose the business context diagram further to determine how the entities might look in a system.
+- Architecture Overview diagrams decompose the system context diagrams to determine how the smallest components will look and connect with other components.
+
+The diagrams are part of the architect's vocabulary. They should be designed so that any IT architect could understand them.
+
+A cybersecurity architect will study the diagrams created by the IT architect and determine how to make the systems and overall architecture secure and fail-safe.
+
+The cybersecurity architect will need to use the following as a checklist:
+
+- Five principles of cybersecurity
+- CIA triad
+- Frameworks, such as NIST CSF, provides a checklist to ensure that you have covered all your bases
+As a cybersecurity architect, it is your job to apply all the items in the checklist to the different diagrams and add security components.
+
+It is important to involve the cybersecurity architects in the Risk Analysis phase of a project rather than in the implementation phase. For a secure design and implementation, applying the cybersecurity principles upfront and creating a security policy is important. Then, follow it with an architecture that integrates well with the overall IT architecture.
