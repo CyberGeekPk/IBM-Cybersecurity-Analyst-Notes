@@ -3,8 +3,24 @@ In this module, you will be introduced to fundamental principles of cybersecurit
 
 ## Five Principles to Follow (and One to Avoid)
 
-- ### 1. Defense in depth
+### 1. Defense in depth
 Defense in depth is trying to create an obstacle course, a difficulty for the bad guy. You can see what I've done here is there's no single security mechanism that is protecting this thing. If any one of these fails, the rest of the system still works. That's the idea that we're after here. If you think about it this way, we've got no single point of failure. We're trying to avoid single points of failure. We want a system that ultimately if it fails, it fails safe. That's what we're trying to get, and that's what the old model and the new model of securities were designed to do. 
 
-- ### 2. Principle of least privilege
+### 2. Principle of least privilege
 Principle of least privilege basically says, I'm only going to give access rights to people that need that, that are authorized and need it in order to do their job and can justify it, and for only as long as they need that access right.
+
+### 3. Separation of duties
+That is, we won't have any single point of control. In fact, what we're trying to do is force collusion by two bad actors or more than two bad actors in order to compromise the system. But no single person can create the compromise. 
+
+### 4. Secure by design
+In other words, it shouldn't be an afterthought that we put security in. Security can't just be a bolt on that, you do at the end. In fact, it needs to be something that we're doing throughout pervasively. We look at the security aspects of the requirements, we build security into the design. We are thinking about secure coding principles all the path. When we install, we do it on a secure system, we're testing and guarding that test data. Then the production, obviously we keep testing. Security is something we do throughout. But it doesn't begin here, It begins in these phases. That's what we're really looking for here.
+In other words, what we're trying to do is make security start to finish and we want secure by design means it's secure out of the box. That's the way we'd like it to be. Sometimes we're going to have to do some configuration changes to make it more secure, but this is the goal that we're trying to shoot for. Secure by design, secure out of the box.
+
+### 5. KISS principle
+It stands for Keep It Simple Stupid. In other words, we don't want to make it harder than necessary, because that will make it easier for the bad guys and harder for the good guys.
+The lesson here is if we make it harder to do the right thing than it is to do the wrong thing, people are going to do the wrong thing. So we need to be able to make the system secure but also as simple as possible. Keep it simple stupid. 
+What we want to do, is understand complexity is the enemy of security. We want to make the system just complex enough to keep the bad guys out. But not so complex that it's hard for the good guys to do what they need to do.
+
+### Security by obscurity
+The security principle you should never observe, and that is security by obscurity. That is, relying on some secret knowledge in order to make the system safe. It turns out that secrecy and security are not the same thing. In fact, what we want is a system that is open and observable and this guy called Kerckhoff came up with what's now known as Kerckhoffs's principle, which basically describes that he was specifically talking about a cryptosystem and he said basically a cryptosystem, should be secure if you know every single thing about it except for the key. In other words, the key is the only secret in the whole system. 
+The security doesn't come from some secret knowledge of how this thing works. It's able to produce cipher text from clear text without having to keep this part secret. The only secret is the key, and that's what we want. We do the same things when we talk about secure operating systems or secure applications, or things like that as long as the security is based on secrecy, it's not really something that we can rely on.
