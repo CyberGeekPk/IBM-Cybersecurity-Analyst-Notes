@@ -3,5 +3,5 @@ In this module, you will be introduced to fundamental principles of cybersecurit
 
 ## Five Principles to Follow (and One to Avoid)
 
-1. Defense in depth
+- 1. Defense in depth
 Defense in depth is trying to create an obstacle course, a difficulty for the bad guy.
