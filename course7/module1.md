@@ -1,5 +1,5 @@
 # Module 1 : Cybersecurity Architecture Overview
-In this module, you will be introduced to fundamental principles of cybersecurity including defense in depth, least privilege, separation of duties, security by design, Keep It Simple, Stupid (KISS). You will also be introduced to bad practice Security by Obscurity that can lead to cyberattacks. Next, you will be able to recognize the importance and key concepts related to Confidentiality, Integrity, and Availability, or the CIA Triad. Finally, you will become familiar with roles and how to manage the role security.
+In this module, you will be introduced to fundamental principles of cybersecurity including defense in depth, least privilege, separation of duties, security by design, Keep It Simple, Stupid (KISS). You will also be introduced to bad practice Security by Obscurity that can lead to cyberattacks. Next, you will be able to recognize the importance and key concepts related to Confidentiality, Integrity, and Availability, or the CIA Triad. Finally, you will become familiar with roles and how to manage the role security and NIST CSF.
 
 ## Five Principles to Follow (and One to Avoid)
 
@@ -88,3 +88,35 @@ The cybersecurity architect will need to use the following as a checklist:
 As a cybersecurity architect, it is your job to apply all the items in the checklist to the different diagrams and add security components.
 
 It is important to involve the cybersecurity architects in the Risk Analysis phase of a project rather than in the implementation phase. For a secure design and implementation, applying the cybersecurity principles upfront and creating a security policy is important. Then, follow it with an architecture that integrates well with the overall IT architecture.
+
+# NIST CSF
+The NIST Cybersecurity Framework (CSF) provides a common language and methodology for organizations to manage and reduce cybersecurity risk. The framework is based on existing best practices, standards, guidelines, and procedures from various government agencies and industry sectors. It consists of the Core, Implementation Tiers, and Profiles. The Core presents common activities and outcomes across critical infrastructure sectors and provides a high-level view of security requirements. The Implementation Tiers help organizations prioritize their efforts by classifying their current cybersecurity risk management approach as Partial, Risk Informed, Repeatable, or Adaptive. Finally, Profiles allows organizations to align cybersecurity practices with business requirements, risk tolerances, and resources.
+
+The CSF comprises five key functions: Identify, Protect, Detect, Respond, and Recover. These functions represent the key components of a successful cybersecurity program and provide a structured approach to managing risk.
+
+![image](https://github.com/user-attachments/assets/7593704f-2da3-42c0-b87b-87d0b1b4e7af)
+
+## 1. Identify
+The identify function focuses on understanding the organization's assets, business environment, risk management strategy, and governance structure. This involves identifying all critical assets and data, assessing the potential impact of a cyber-attack on these assets, and determining the organization's risk tolerance level.
+
+This function also includes developing incident response plans, establishing policies and procedures for managing cybersecurity risks, and conducting regular assessments to identify any changes in the organization's risk profile.
+
+## 2. Protect
+The protect function involves implementing measures to safeguard the organization's assets and ensure their continued availability, integrity, and confidentiality. This includes physical security controls, access controls, data at rest and in transit protection, employee training programs, and vulnerability management processes.
+
+This function also focuses on supply chain risk management by ensuring that third-party vendors and partners have appropriate security measures to protect the organization's data and assets.
+
+## 3. Detect
+The detect function focuses on identifying cybersecurity events and incidents as they occur. This includes implementing monitoring systems, establishing threat intelligence capabilities, and conducting routine assessments of the organization's security posture.
+
+Quickly detecting and responding to cyber-attacks is essential in minimizing their impact on an organization's operations and reputation. Therefore, this function also includes developing incident response plans and conducting regular exercises to test their effectiveness.
+
+## 4. Respond
+The respond function focuses on taking appropriate action in response to a cybersecurity event or incident. This may involve containment of the incident, eradicating the threat, and recovering impacted systems or data. It also includes notifying relevant stakeholders, such as customers or regulatory authorities, and implementing additional security measures to prevent similar incidents from occurring in the future.
+
+## 5. Recover
+The final function, recover, focuses on restoring operational capabilities and services after a cybersecurity event or incident has occurred. This includes conducting post-incident reviews, implementing changes to policies and procedures, and updating risk management strategies based on lessons learned.
+
+These five functions are not meant to be followed in order. Instead, they should be viewed as a constant process, with each function informing and influencing the others. Implementing the NIST Cybersecurity Framework can help organizations establish a structured approach to managing cybersecurity risk and improve their overall security posture. Because of this, all cybersecurity professionals need to familiarize themselves with the framework.
+
+You can learn more about the NIST cybersecurity Framework here: https://www.nist.gov/cyberframework/getting-started/quick-start-guide.
