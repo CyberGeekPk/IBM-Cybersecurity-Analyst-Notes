@@ -24,3 +24,11 @@ What we want to do, is understand complexity is the enemy of security. We want t
 ### Security by obscurity
 The security principle you should never observe, and that is security by obscurity. That is, relying on some secret knowledge in order to make the system safe. It turns out that secrecy and security are not the same thing. In fact, what we want is a system that is open and observable and this guy called Kerckhoff came up with what's now known as Kerckhoffs's principle, which basically describes that he was specifically talking about a cryptosystem and he said basically a cryptosystem, should be secure if you know every single thing about it except for the key. In other words, the key is the only secret in the whole system. 
 The security doesn't come from some secret knowledge of how this thing works. It's able to produce cipher text from clear text without having to keep this part secret. The only secret is the key, and that's what we want. We do the same things when we talk about secure operating systems or secure applications, or things like that as long as the security is based on secrecy, it's not really something that we can rely on.
+
+# CIA Triad
+
+## Confidentiality
+So, confidentiality, we basically accomplish with two main types of technologies: 
+One is access control, which consists of authentication and authorization. So authentication is answering the question, "Who are you?" In authorization, "Are you allowed to do this or not?"
+Encryption is the other component that is involved in ensuring confidentiality.
+So these are two main things then that we're doing. We're using access control and encryption as ways to ensure confidentiality.
