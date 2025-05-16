@@ -32,3 +32,27 @@ So, confidentiality, we basically accomplish with two main types of technologies
 One is access control, which consists of authentication and authorization. So authentication is answering the question, "Who are you?" In authorization, "Are you allowed to do this or not?"
 Encryption is the other component that is involved in ensuring confidentiality.
 So these are two main things then that we're doing. We're using access control and encryption as ways to ensure confidentiality.
+
+### Solutions to Ensure Confidentiality
+- Authentication: Passwords, PINs, and multi-factor authentication methods are used to verify the identity of the user
+- Authorization: Verify whether the authenticated user should have access to the requested information
+- Encryption: Transform readable data into a coded form that prevents unauthorized access to the information
+
+## Integrity
+Integrity is the quality that says a message is true to itself. A transaction is true to itself. If it gets modified, then we can detect it. And if it's detected, then we can know not to trust that and we can take the appropriate countermeasures.
+How do we keep those from not happening? We're going to use these cryptographic technologies that allow us to see that a record in either of these cases, if someone attempts to modify that, we can see that attempt and we can block it.
+
+### Solutions to Ensure Integrity
+- Controls: Help to protect data from unauthorized creation, deletion, or alterations
+- Checksum: Verify data integrity by detecting errors that may have been introduced during transmission or storage
+- Version control: Record changes to a file over time so that you can see who and when changes were made to the file
+
+## Availability
+Availability means that the system should be available, the resources should be available to authorized users--that they can get access when they need it.
+
+![image](https://github.com/user-attachments/assets/5f85d65d-d903-4a9d-b3d3-106e4e9c6271)
+
+### Solutions to Ensure Availability
+- Fail-safe mechanisms: Automatically respond to a failure or malfunction to prevent further damage or harm
+- Perform regular backups: Routinely create copies of data and store them in a separate location to restore the original data in the event of data loss or disruption
+- Disaster recovery plan: Create policies to ensure the rapid restoration of systems, data, and infrastructure in the event of natural disasters, cyber-attacks, and other unforeseen events
