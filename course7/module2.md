@@ -39,3 +39,21 @@ involves two different types of authentication factors. This could be a combinat
 
 ## Multi-Factor Authentication (MFA)
 involves two or more independent categories of credentials to verify the user's identity for a login or other transaction. MFA can include two-factor authentication but also can consist of more. The aim is to create a layered defense and make it more difficult for an unauthorized person to access a target such as a physical location, computing device, network, or database. If one factor is compromised or broken, the attacker still has at least one more barrier to breach before successfully breaking into the target.
+
+## Endpoint Security
+
+- Multi-factor authentication is based on trust in the source platform.
+- Endpoints refer to physical devices that connect to a computer network for information exchange.
+- Vulnerability can come from both hardware and software devices.
+- Visibility and control are keys to security. They dictate the type of hardware and software that are allowed within an organization.
+Controls can be in the form of:
+-- Inventory
+-- Policies
+-- Patching
+-- Encryption
+-- Remote wipe
+-- Location tracking
+-- Anti-virus
+-- Disposal
+- Policies are implemented to achieve security. They include passwords (certain length, strength, and expiry date). They also ensure proper encryption.
+- Policies should evaluate whether devices are monitored and under what conditions.
