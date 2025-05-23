@@ -1,4 +1,5 @@
 # Module 4 - Detection and Response
+In this module, you will learn about detecting cyberattacks and responding to them. This module will introduce you to security being the sum of prevention, detection, and response. You will be introduced to detection using the security information and event management (SIEM) system or extended detection response (XDR) system detection techniques to perform tasks such as monitoring, analyzing, reporting, and threat hunting. You will also get an overview of the SIEM process followed by the XDR process and how SIEM and XDR work together. Further, you will be introduced to federated search. This module will also cover how to respond to cyberattacks. You will become familiar with the SOAR system and also understand how automation and orchestration differ. Finally, you will be introduced to breach notifications.
 
 ## Detection
 The CIA triad represents the What of cybersecurity and shows what we are trying to do with cybersecurity.
