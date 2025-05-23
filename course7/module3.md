@@ -110,3 +110,63 @@ Threat modeling is a systematic process used in secure coding that involves iden
 Secure code review is a systematic examination of an application's source code to spot potential security weaknesses and improve the overall quality of the code. A secure code review involves inspecting the code line-by-line to identify any code fragments that may pose a risk of vulnerabilities. It can be conducted manually or automated using tools that detect potentially insecure code patterns.
 
 A secure code review allows developers to catch and correct security flaws early in development.
+
+# Data Security
+Data security ecosystem comprises the following:
+
+Governance plan to analyze what should be done. It needs a data security policy to identify the key and sensitive areas:
+- Classification criteria to identify key issues and label them (confidential, unclassified, top secret, and so on)
+- Catalog to locate the data, especially the sensitive information
+- Resilience plan to plan for recovery in case of data breach
+
+Discovery to find sensitive data
+
+- Databases that contain structured data
+- Files, emails, and spreadsheets that contain unstructured data
+
+Protection of data
+
+- Encryption that requires data scrambling (for data in databases or in the network)
+- Managing the keys and creating them at random
+- Access control, which is a part of identity and access management
+- Backup to cope with a disaster recovery scenario
+
+Complying with industry regulations
+
+- Looking for general protection guiding bodies (GDPR Europe and HIPAA US)
+- Reporting when non-complying with these bodies
+- Retaining records in accordance with the law
+
+Security comprises detection
+
+- Monitor the systems and analyze how data is used and by whom
+- UBA (User Behavior Analytics) to monitor users and how they perceive data
+- Alerts that go to consoles and seek immediate action
+
+Response to security breach
+
+- Investigating cases
+- Dynamic playbook for situation handling
+- Automation and Orchestration of the cases
+= Data Loss Protection (DLP) is a technology that helps to discover the data issues that are flowing across networks.
+
+Five areas that can remove the cost of data breach:
+- Artificial intelligence
+- DevSecOps
+- Incident Response (IR)
+- Cryptography
+- Employee training
+
+# Data Security: Why a Proactive Stance is Best
+
+## Data preservation
+Data preservation, which involves safeguarding critical information from corruption, harm, or loss, is paramount due to the severe consequences of data breaches. These breaches, often resulting from cyberattacks, may include personally identifiable information (PII), health records, financial data, intellectual property, and other personal data. The implications for organizations can be catastrophic, and individuals may suffer significant consequences such as financial losses, identity theft, other forms of fraud, emotional distress, and potential damage to their reputation. Integral to a proactive approach to data security is data privacy, which focuses on how data is stored, accessed, and protected from inappropriate access, theft, or other forms of loss. A compelling example of the significance of data privacy can be seen in the healthcare industry, where maintaining patient confidentiality is essential for building trust and ensuring regulatory compliance.
+
+## Data security strategy
+Data security is crucial to safeguarding digital information from threats such as unauthorized access, corruption, theft, accidental disclosure, alteration, and loss. It involves many processes and tools designed to protect an organization's data across various platforms and applications, both within the premises and in the cloud. The goal is to uphold the data's confidentiality, integrity, and availability (CIA) throughout its lifecycle. This includes securing proprietary information, trade secrets, and other sensitive data. A robust data security strategy encompasses the physical security of servers and user devices and the management and control of access, application security, patching, and maintaining reliable data backups. Additionally, it involves employee education and the deployment of a comprehensive suite of threat management, detection, and response tools that protect sensitive data across hybrid cloud environments.
+
+## Data security compliance
+In the wake of escalating public anxiety regarding data privacy, governments across the globe are enacting rigorous compliance regulations. The risks of data breaches or losses, audit failures, or regulatory compliance infringements can tarnish an organization's reputation, endanger intellectual property, and result in hefty fines. For example, data breaches under the EU's General Data Protection Regulation (GDPR) could cost an organization up to 4% of its annual global turnover or 20 million euros—whichever is higher. Penalties for non-compliance with data privacy laws can also be severe in the US, with HIPAA Privacy Standards violations attracting fines from $1000 to $50,000 per violation. The Federal Trade Commission (FTC) could impose penalties up to $40,000 per violation of the FTC Act or the Children's Online Privacy Protection Act (COPPA), with each day of non-compliance constituting a separate violation and fine.
+
+## A proactive stance
+Firms must adopt a forward-thinking stance on data security, as the financial losses from a breach can be devastating. In 2022, the average time to detect and rectify a data breach was 277 days. Reducing this period to 200 days or fewer could save roughly $1.12 million. Due to stolen or compromised credentials, the most prevalent type of breach costs businesses an additional $150,000 compared to other data breaches. It requires the longest time to detect, averaging 327 days. Implementing a transparent, thoughtful strategy for accessing, curating, classifying, and distributing data throughout the organization bolsters compliance and fosters more informed, data-centric decision-making processes. The greater an organization's knowledge and protection of sensitive data, the more effectively it can leverage it for novel projects and enhance its innovative capacity.
