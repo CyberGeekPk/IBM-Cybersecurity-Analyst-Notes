@@ -44,3 +44,23 @@ An IDS in a network diagram is often situated at critical points where it can mo
 
 ### Wireless Router
 A Wireless Router is typically situated at a strategic point in a network diagram. This device serves as a router and a wireless access point. It connects wired networks to wireless devices and the internal network to external networks like the internet. The wireless router effectively extends network access to devices that may not be physically wired into the network, enabling them to communicate and share data with other devices on the network. Its position in the diagram reflects its critical role in managing and facilitating wired and wireless communications within the network.
+
+## Application Security
+
+Every software is prone to vulnerabilities, which are mostly developed in coding stages. This is because traditional software processes are linear and lacks communication. DevOps was introduced because of these reasons.
+Short for development, security, and operations, DevSecOps helps to automate every phase of the SDLC. It is an integrated process built for agility.
+Secured coding processes involves:
+- Coding practices checklist that helps to understand how a code should be written. It also deals with buffer overflow and establishes authentication practices.
+- Visit OWASP.ORG for a checklist sample.
+- Trusted libraries to eradicate the need of writing a code from scratch.
+- Standard architectures references to avoid repeating the same mistakes and learn from them.
+- Avoiding vulnerabilities.
+- Visit OWASP.ORG and check their list of top ten vulnerabilities.
+
+The idea of a software bill of materials and their details that include:
+- Components
+- Libraries and their sources
+- Dependencies among the components
+- Versions
+- Vulnerabilities (refer Log4J)
+- Static Application Security Testing (SAST) and Dynamic Application Security Testing (DAST) are the two tools used in vulnerability testing. Static is also referred to as white box testing and dynamic testing is referred to as black box testing.
