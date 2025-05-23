@@ -45,7 +45,7 @@ An IDS in a network diagram is often situated at critical points where it can mo
 ### Wireless Router
 A Wireless Router is typically situated at a strategic point in a network diagram. This device serves as a router and a wireless access point. It connects wired networks to wireless devices and the internal network to external networks like the internet. The wireless router effectively extends network access to devices that may not be physically wired into the network, enabling them to communicate and share data with other devices on the network. Its position in the diagram reflects its critical role in managing and facilitating wired and wireless communications within the network.
 
-## Application Security
+# Application Security
 
 Every software is prone to vulnerabilities, which are mostly developed in coding stages. This is because traditional software processes are linear and lacks communication. DevOps was introduced because of these reasons.
 Short for development, security, and operations, DevSecOps helps to automate every phase of the SDLC. It is an integrated process built for agility.
@@ -64,3 +64,49 @@ The idea of a software bill of materials and their details that include:
 - Versions
 - Vulnerabilities (refer Log4J)
 - Static Application Security Testing (SAST) and Dynamic Application Security Testing (DAST) are the two tools used in vulnerability testing. Static is also referred to as white box testing and dynamic testing is referred to as black box testing.
+
+# Secure Coding Practices
+
+## Introduction
+Secure coding refers to the practice of developing computer software in a way that guards against security vulnerabilities. Code vulnerabilities are a leading cause of software security breaches. With the increasing reliance on software systems in industries such as finance, healthcare, and defense, the potential damage caused by a security breach can be catastrophic. Secure coding practices can significantly reduce these risks. Secure coding also helps organizations comply with regulatory standards and avoid costly fines or reputational damage associated with security breaches.
+
+Let's look at a few secure coding best practices.
+
+## Input Validation
+Input validation determines the correctness of the data that a user or application submits to an application or system. It involves checking whether the user-provided data is of the expected format and free of malicious code. A simple example of input validation is CAPTCHA. This is used to verify that a real person has entered their username and password, reducing the chance of granting access to an AI or a bot. Format checking or regular expressions are another method that checks data against a particular format. For example, an email field may be expecting a 'username@domain' format, or a phone number may be expecting a 'xxx-xxx-xxxx' format.
+
+Inadequate input validation is a common cause of security vulnerabilities, including SQL injection and cross-site scripting attacks. Input validation can help to prevent unauthorized data, maintain the integrity of the system, and mitigate the risk of a potential security breach.
+
+## Authentication and Authorization
+Authentication and authorization are two crucial components in secure coding practices. Authentication verifies the identity of a user, device, or system. It ensures that users are who they claim to be before accessing a specific system or data. This often involves using passwords, two-factor authentication, biometric data, or other forms of identity verification.
+
+A robust authentication mechanism can significantly reduce the risk of unauthorized access, thereby maintaining the system's integrity and safeguarding sensitive information.
+
+Authorization pertains to the permissions or privileges granted to a user, device, or system after they have been authenticated. It determines what a user can do or what resources or tasks they can access within the system or application.
+
+Implementing a strict authorization mechanism helps to ensure that users can only access data and perform actions relevant to their role or purpose. This helps to minimize the potential for malicious insider activities or accidental misuse of sensitive data.
+
+## Encryption
+Encryption is pivotal to the ethos of secure coding practices. It refers to converting plaintext information into an unreadable form, known as ciphertext, to prevent unauthorized access. The original data can only be reaccessed through decryption, which requires a specific key. Secure software systems often use encryption when storing sensitive data and during data transmission across networks. This ensures that even if an unauthorized party intercepts the data, they cannot comprehend or use it without the decryption key. Encryption is essential in protecting the confidentiality and integrity of data, making it a vital part of secure coding practices. From securing user passwords to safeguarding financial transactions, the significance of encryption in maintaining a robust, secure software environment cannot be overstated.
+
+## Error Handling
+Error handling involves anticipating, detecting, and resolving programming errors or exceptions. It ensures that a software application continues functioning as expected, even when an unforeseen issue arises.
+
+In secure coding, error handling becomes especially relevant when dealing with unpredicted or incorrect user inputs or system failures. According to OWASP, developers should ensure that error messages do not display any debugging or stack trace information. Error logs should contain all critical log event data but should not include sensitive data. These logs should only be accessible to unauthorized users. If a user or system can see error logs, they may be able to gain the information needed to infiltrate your system.
+
+Implementing effective error handling can help prevent an application from crashing or exposing sensitive system information when an error occurs.
+
+## Threat Modeling
+Threat modeling is a systematic process used in secure coding that involves identifying, understanding, and addressing potential security threats in a software system. It is generally performed at the early stages of development and throughout the software life cycle:
+
+- The process starts by creating a detailed overview of the system — mapping out the data flow, identifying potential vulnerabilities, and defining key areas that threats could target.
+- The next step is identifying and categorizing potential threats using STRIDE (Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, and Elevation of Privilege).
+- Each threat is then analyzed to understand its potential impact and likelihood of occurrence.
+- Appropriate mitigation strategies are then designed and implemented to address each identified threat.
+- Regular reviews and updates are carried out as the system evolves and new threats emerge.
+- Threat modeling allows for proactive identification and mitigation of potential security risks. It helps prioritize security measures based on the severity and likelihood of threats, significantly reducing the risk of security breaches.
+
+## Secure Code Review
+Secure code review is a systematic examination of an application's source code to spot potential security weaknesses and improve the overall quality of the code. A secure code review involves inspecting the code line-by-line to identify any code fragments that may pose a risk of vulnerabilities. It can be conducted manually or automated using tools that detect potentially insecure code patterns.
+
+A secure code review allows developers to catch and correct security flaws early in development.
