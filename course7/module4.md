@@ -35,3 +35,16 @@ Note: The technology used to find and analyze anomalies is referred to as User B
 
 - Are we doing better now than earlier?
 - Are we resolving faster?
+
+## Extended Detection and Response system (XDR)
+With Endpoint Detection and Response (EDR), an agent is installed on each system for detection along with a certain level of response. XDR was developed to read and hold all the information from the EDR or SIEM and some vendors added the capability of federated search to look for particular indicators of compromise across all systems. The advantage is that there is no need for prefetched data in a database. You can get information just in time. A federated search tells the systems to fetch the data just in time.
+
+### SIEM and XDR
+SIEM uses a bottom-up approach, while XDR uses a top-down approach.
+SIEM is good at triggering alarms, and an alarm from SIEM to XDR may be a good place to start an investigation.
+Important: XDR plus SIEM can complement each other and make a stronger security response. They help monitor, analyze, and report on all activities happening in the environment.
+
+## Threat hunting
+It is important to detect an attack as soon as possible. This is done with threat hunting.
+
+Threat hunting is a proactive initiative for an organization. This is where a cybersecurity analyst with experience and a good instinct can help with a hypothesis based on which we can determine the tools to detect threats or possible attacks, which results in early detection.
