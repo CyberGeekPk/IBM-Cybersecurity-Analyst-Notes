@@ -47,7 +47,7 @@ Welcome to my personal learning notes! Here's a quick index:
 - [Module 3: Database Security & Data Protection Strategies](course6/module3.md)
 - [Module 4: Injection Vulnerabilities](course6/module4.md)
 
-## Course 7 : 𝗖𝘆𝗯𝗲𝗿𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲
+## Course 7 : Cybersecurity Architecture
 
 - [Module 1: Cybersecurity Architecture Overview](course7/module1.md)
 - [Module 2: Access Management & Endpoint Security](course7/module2.md)
