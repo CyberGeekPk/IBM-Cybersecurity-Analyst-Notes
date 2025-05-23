@@ -170,3 +170,23 @@ In the wake of escalating public anxiety regarding data privacy, governments acr
 
 ## A proactive stance
 Firms must adopt a forward-thinking stance on data security, as the financial losses from a breach can be devastating. In 2022, the average time to detect and rectify a data breach was 277 days. Reducing this period to 200 days or fewer could save roughly $1.12 million. Due to stolen or compromised credentials, the most prevalent type of breach costs businesses an additional $150,000 compared to other data breaches. It requires the longest time to detect, averaging 327 days. Implementing a transparent, thoughtful strategy for accessing, curating, classifying, and distributing data throughout the organization bolsters compliance and fosters more informed, data-centric decision-making processes. The greater an organization's knowledge and protection of sensitive data, the more effectively it can leverage it for novel projects and enhance its innovative capacity.
+
+## Quantum Safe Encryption
+
+### Introduction
+Quantum computers, in the future, are set to bring significant changes to cyber security. Their ability to factorize large prime numbers (the foundation of existing cryptography) could make current security systems useless. While today's quantum computers aren't powerful or stable enough to crack modern encryption technologies, they are expected to be in the future. As such, it's vital to start updating systems and software now because hackers may already be stealing data with plans to crack it open later when quantum computers become more capable.
+
+"Years to Quantum" (Y2Q), also known as "Q-Day," refers to the predicted time when quantum computers will be able to overcome our current encryption methods. The Quantum Threat Timeline Report suggests that within 15 years, quantum computers might be able to crack RSA-2048 encryption. However, the Cloud Security Alliance (CSA) predicts this might happen as early as April 14, 2030.
+
+### Overview of Quantum Safe Encryption
+"Quantum safe" refers to the security methods and protocols resistant to quantum computing attacks. Quantum-safe or post-quantum cryptography is all about developing secure techniques to protect information from attacks by both regular and quantum computers. The goal is to find algorithms that even the most powerful quantum computers can't break, ensuring our data remains safe in a world after quantum computers become mainstream.
+
+Five families of post-quantum cryptography algorithms that are likely to be quantum-safe:
+
+- Lattice-based encryption uses multidimensional geometric structures to encrypt data, creating a cryptographic puzzle that might be difficult for quantum computers to solve.
+- Hash-based encryption relies on the mathematical task of hashing. It transforms data into a string of characters using a hash function, creating a unique output (or ‘hash’) that is difficult to reverse-engineer, even with quantum computers.
+- Code-based encryption transforms data into encoded messages that are challenging to decode without the correct algorithm.
+- Multivariate encryption employs multiple mathematical equations and variables simultaneously, making it highly complex and thus challenging for quantum computers to crack.
+- A private (or secret) key refers to a cryptographic key, known only to the participating parties, used within a symmetric encryption algorithm to ensure the confidentiality of data.
+
+These systems protect data even when quantum computers become powerful enough to crack traditional encryption methods.
