@@ -1,4 +1,4 @@
-# Module 4 - 
+# Module 4 - Detection and Response
 
 ## Detection
 The CIA triad represents the What of cybersecurity and shows what we are trying to do with cybersecurity.
@@ -48,3 +48,31 @@ Important: XDR plus SIEM can complement each other and make a stronger security 
 It is important to detect an attack as soon as possible. This is done with threat hunting.
 
 Threat hunting is a proactive initiative for an organization. This is where a cybersecurity analyst with experience and a good instinct can help with a hypothesis based on which we can determine the tools to detect threats or possible attacks, which results in early detection.
+
+# Responding to an Attack
+A good incident response can cut the cost of a data breach.
+
+Traditionally, an attack is referred to as an incident, and the response is an incident response (IR). An IR is typically resolved by an expert manually. The expert will triage and remediate the incident.
+
+In the modern world, with a focus on shortening the MTTC, you can use the Security Orchestration, Automation and Response (SOAR) technology. The focus of SOAR is on automating as much of the IR process as possible.
+
+## Cases
+- When an attack generates an alarm, The SIEM or the XDR system will initiate a case in the case management component of the SOAR system.
+- Next, assign the case to the appropriate cybersecurity analyst.
+- The analyst then investigates the incident. To ensure that the process is consistent and repeatable, the analyst can use the dynamic playbook.
+- The dynamic playbook provides a set of steps based on an algorithm to enable the analyst to perform the investigation activities.
+- Once the analyst determines the cause and remediation steps, action to remediate the system can be applied.
+
+## Automation and Orchestration
+While automation is a great practice, not everything can be automated because there are several first-of-a-kind (FOAK) events.
+
+- Automate what you can.
+- Orchestrate wherever automation is not possible.
+- Breach Notification
+
+In case of a breach, you will need to:
+- Determine the data sets that are impacted.
+- Determine the geographic location where the data was breached.
+- Inform the regulatory body in the location.
+
+IMPORTANT: You will pay a penalty if you do not notify the regulatory body in the location.
